@@ -1,0 +1,2405 @@
+/* Hardware Styles : Author: Andrew Young - VML */
+.small-icons-sprite, .small-icons-button_feedback_bubble, .small-icons-button_newsletter_bubble, .small-icons-footer_scroll_up_arrow, .small-icons-icon-comment-bubble, .small-icons-icon-tag, .small-icons-icon_Manual_Driver_Search, .small-icons-icon_RSS, .small-icons-icon_adobe_pdf, .view-gpus .view-header a:before, .view-notebooks .view-header a:before, .view-power-supplies .view-header a:before, .view-motherboards .view-header a:before, .view-cases .view-header a:before, .field-name-field-pdf-of-supported-psus .field-item a:before, .small-icons-main_leftNav_contentBox_check_yes, .small-icons-main_leftNav_contentBox_check_yes2, #product_info_technologies ul li:before, .small-icons-refresh {
+  background: url('../images/small-icons-s785a04d8fc.png') no-repeat;
+}
+
+.small-icons-button_feedback_bubble {
+  background-position: 0 -266px;
+  height: 14px;
+  width: 14px;
+}
+
+.small-icons-button_newsletter_bubble {
+  background-position: 0 -130px;
+  height: 15px;
+  width: 23px;
+}
+
+.small-icons-footer_scroll_up_arrow {
+  background-position: 0 -50px;
+  height: 30px;
+  width: 30px;
+}
+
+.small-icons-icon-comment-bubble {
+  background-position: 0 -145px;
+  height: 31px;
+  width: 31px;
+}
+
+.small-icons-icon-tag {
+  background-position: 0 -223px;
+  height: 31px;
+  width: 31px;
+}
+
+.small-icons-icon_Manual_Driver_Search {
+  background-position: 0 0;
+  height: 50px;
+  width: 50px;
+}
+
+.small-icons-icon_RSS {
+  background-position: 0 -80px;
+  height: 50px;
+  width: 50px;
+}
+
+.small-icons-icon_adobe_pdf, .view-gpus .view-header a:before, .view-notebooks .view-header a:before, .view-power-supplies .view-header a:before, .view-motherboards .view-header a:before, .view-cases .view-header a:before, .field-name-field-pdf-of-supported-psus .field-item a:before {
+  background-position: 0 -194px;
+  height: 21px;
+  width: 20px;
+}
+
+.small-icons-main_leftNav_contentBox_check_yes {
+  background-position: 0 -215px;
+  height: 8px;
+  width: 11px;
+}
+
+.small-icons-main_leftNav_contentBox_check_yes2, #product_info_technologies ul li:before {
+  background-position: 0 -254px;
+  height: 12px;
+  width: 17px;
+}
+
+.small-icons-refresh {
+  background-position: 0 -176px;
+  height: 18px;
+  width: 18px;
+}
+
+.icons-paging-sprite, .icons-paging-button_page_backEnd_off, .icons-paging-button_page_backEnd_on, .icons-paging-button_page_back_grey_on, .icons-paging-button_page_back_off, .icons-paging-button_page_back_on, .icons-paging-button_page_forwardEnd_off, .icons-paging-button_page_forwardEnd_on, .icons-paging-button_page_forward_grey_on, .icons-paging-button_page_forward_off, .icons-paging-button_page_forward_on {
+  background: url('../images/icons-paging-s67eda87a48.png') no-repeat;
+}
+
+.icons-paging-button_page_backEnd_off {
+  background-position: 0 -42px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_backEnd_on {
+  background-position: 0 -28px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_back_grey_on {
+  background-position: 0 0;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_back_off {
+  background-position: 0 -126px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_back_on {
+  background-position: 0 -84px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_forwardEnd_off {
+  background-position: 0 -56px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_forwardEnd_on {
+  background-position: 0 -70px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_forward_grey_on {
+  background-position: 0 -14px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_forward_off {
+  background-position: 0 -112px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_forward_on {
+  background-position: 0 -98px;
+  height: 14px;
+  width: 14px;
+}
+
+.ratings-badges-sprite, .ratings-badges-ESRB_A, .ratings-badges-ESRB_E, .ratings-badges-ESRB_E10, .ratings-badges-ESRB_EC, .ratings-badges-ESRB_M, .ratings-badges-ESRB_RP, .ratings-badges-ESRB_T, .ratings-badges-PEGI_12, .ratings-badges-PEGI_16, .ratings-badges-PEGI_18, .ratings-badges-PEGI_3, .ratings-badges-PEGI_7 {
+  background: url('../images/ratings-badges-s741d9abcde.png') no-repeat;
+}
+
+.ratings-badges-ESRB_A {
+  background-position: 0 -499px;
+  height: 61px;
+  width: 44px;
+}
+
+.ratings-badges-ESRB_E {
+  background-position: 0 -560px;
+  height: 61px;
+  width: 44px;
+}
+
+.ratings-badges-ESRB_E10 {
+  background-position: 0 -316px;
+  height: 61px;
+  width: 44px;
+}
+
+.ratings-badges-ESRB_EC {
+  background-position: 0 -255px;
+  height: 61px;
+  width: 44px;
+}
+
+.ratings-badges-ESRB_M {
+  background-position: 0 -377px;
+  height: 61px;
+  width: 44px;
+}
+
+.ratings-badges-ESRB_RP {
+  background-position: 0 -438px;
+  height: 61px;
+  width: 43px;
+}
+
+.ratings-badges-ESRB_T {
+  background-position: 0 -621px;
+  height: 61px;
+  width: 44px;
+}
+
+.ratings-badges-PEGI_12 {
+  background-position: 0 -102px;
+  height: 51px;
+  width: 42px;
+}
+
+.ratings-badges-PEGI_16 {
+  background-position: 0 -51px;
+  height: 51px;
+  width: 42px;
+}
+
+.ratings-badges-PEGI_18 {
+  background-position: 0 0;
+  height: 51px;
+  width: 42px;
+}
+
+.ratings-badges-PEGI_3 {
+  background-position: 0 -153px;
+  height: 51px;
+  width: 42px;
+}
+
+.ratings-badges-PEGI_7 {
+  background-position: 0 -204px;
+  height: 51px;
+  width: 42px;
+}
+
+.content-background-border {
+  background-color: #202427;
+  border: 1px solid #2c2e33;
+  border-top: 2px solid #6CA200;
+  -webkit-box-shadow: #90bd00 0px -1px 0px;
+  -moz-box-shadow: #90bd00 0px -1px 0px;
+  box-shadow: #90bd00 0px -1px 0px;
+  -webkit-border-radius: 0px 0px 6px 6px;
+  -moz-border-radius: 0px 0px 6px 6px;
+  -ms-border-radius: 0px 0px 6px 6px;
+  -o-border-radius: 0px 0px 6px 6px;
+  border-radius: 0px 0px 6px 6px;
+}
+
+.divider-top {
+  border-top: 1px solid #2c2e33;
+  -webkit-box-shadow: #141318 0px -1px 0px;
+  -moz-box-shadow: #141318 0px -1px 0px;
+  box-shadow: #141318 0px -1px 0px;
+}
+
+.green-gradient, .view-display-id-product_family .view-content .views-row span a.active {
+  background-color: #90c247;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FF90C247', endColorstr='#FF4C9300');
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #90c247), color-stop(13%, #83b939), color-stop(33%, #62a217), color-stop(42%, #569a0b), color-stop(50%, #4e9402), color-stop(54%, #4c9300), color-stop(100%, #4c9300));
+  background-image: -webkit-linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  background-image: -moz-linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  background-image: -o-linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  background-image: linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+}
+
+.btn-green, .field-name-field-buy-now-link a, .gpu-product-content .views-row .field-name-node-link div div a, #product_info_compare a, .page-node-supported-gpus .view-id-technology_references .views-row .field-name-field-buy-now-link div div a, .page-node-supported-gpus .view-id-technology_references .views-row .field-name-node-link div div a {
+  background-color: #4c9300;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #90c247), color-stop(13%, #83b939), color-stop(33%, #62a217), color-stop(42%, #569a0b), color-stop(50%, #4e9402), color-stop(54%, #4c9300), color-stop(100%, #4c9300));
+  background-image: -webkit-linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  background-image: -moz-linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  background-image: -o-linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  background-image: linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  display: inline-block;
+  border: none;
+  color: white !important;
+  text-transform: uppercase;
+  padding: 5px 20px;
+  text-shadow: none;
+  text-decoration: none !important;
+  margin-bottom: 10px;
+}
+.btn-green:hover, .field-name-field-buy-now-link a:hover, .gpu-product-content .views-row .field-name-node-link div div a:hover, #product_info_compare a:hover, .page-node-supported-gpus .view-id-technology_references .views-row .field-name-field-buy-now-link div div a:hover, .page-node-supported-gpus .view-id-technology_references .views-row .field-name-node-link div div a:hover {
+  background-color: #7dbf0b;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #aad847), color-stop(13%, #a0d339), color-stop(38%, #82c111), color-stop(50%, #77bb02), color-stop(100%, #76ba00));
+  background-image: -webkit-linear-gradient(top, #aad847 0%, #a0d339 13%, #82c111 38%, #77bb02 50%, #76ba00 100%);
+  background-image: -moz-linear-gradient(top, #aad847 0%, #a0d339 13%, #82c111 38%, #77bb02 50%, #76ba00 100%);
+  background-image: -o-linear-gradient(top, #aad847 0%, #a0d339 13%, #82c111 38%, #77bb02 50%, #76ba00 100%);
+  background-image: linear-gradient(top, #aad847 0%, #a0d339 13%, #82c111 38%, #77bb02 50%, #76ba00 100%);
+  text-decoration: none;
+}
+.btn-green:active, .field-name-field-buy-now-link a:active, .gpu-product-content .views-row .field-name-node-link div div a:active, #product_info_compare a:active, .page-node-supported-gpus .view-id-technology_references .views-row .field-name-field-buy-now-link div div a:active, .page-node-supported-gpus .view-id-technology_references .views-row .field-name-node-link div div a:active {
+  color: white !important;
+}
+
+.btn-gray {
+  background-color: #a0a0a0;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FFA0A0A0', endColorstr='#FF666666');
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #a0a0a0), color-stop(13%, #959595), color-stop(38%, #737373), color-stop(50%, #676767), color-stop(100%, #666666));
+  background-image: -webkit-linear-gradient(top, #a0a0a0 0%, #959595 13%, #737373 38%, #676767 50%, #666666 100%);
+  background-image: -moz-linear-gradient(top, #a0a0a0 0%, #959595 13%, #737373 38%, #676767 50%, #666666 100%);
+  background-image: -o-linear-gradient(top, #a0a0a0 0%, #959595 13%, #737373 38%, #676767 50%, #666666 100%);
+  background-image: linear-gradient(top, #a0a0a0 0%, #959595 13%, #737373 38%, #676767 50%, #666666 100%);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  display: inline-block;
+  border: none;
+  color: white !important;
+  text-transform: uppercase;
+  padding: 5px 20px;
+  text-shadow: none;
+  text-decoration: none !important;
+  margin-bottom: 10px;
+}
+.btn-gray:hover {
+  background-color: #c1c1c1;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FFC1C1C1', endColorstr='#FF9C9C9C');
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c1c1c1), color-stop(13%, #bababa), color-stop(38%, #a4a4a4), color-stop(50%, #9c9c9c), color-stop(100%, #9c9c9c));
+  background-image: -webkit-linear-gradient(top, #c1c1c1 0%, #bababa 13%, #a4a4a4 38%, #9c9c9c 50%, #9c9c9c 100%);
+  background-image: -moz-linear-gradient(top, #c1c1c1 0%, #bababa 13%, #a4a4a4 38%, #9c9c9c 50%, #9c9c9c 100%);
+  background-image: -o-linear-gradient(top, #c1c1c1 0%, #bababa 13%, #a4a4a4 38%, #9c9c9c 50%, #9c9c9c 100%);
+  background-image: linear-gradient(top, #c1c1c1 0%, #bababa 13%, #a4a4a4 38%, #9c9c9c 50%, #9c9c9c 100%);
+  text-decoration: none;
+}
+.btn-gray:active {
+  color: white !important;
+}
+
+.view-gpus .view-header h2, .view-notebooks .view-header h2, .view-power-supplies .view-header h2, .view-motherboards .view-header h2, .view-cases .view-header h2, .page-node-performance .group-performance h3, .view-mode-vmepage_performance h3, .view-mode-vmepage_product_demo h2, .view-mode-vmepage_features h2, .view-mode-vmepage_technology h2, .page-node-product-images.node-type-gpu .view-mode-vmepage_product_images h2, .page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter h3, .node-technology .field-name-field-feature-items .overview_item h3, .node-technology .field-name-field-screenshot:before, .page-node-technology .group_technology h2, .page-node-tech-demos .view-id-gpu_references h2.title, .node-type-technology .view-technology-references .view-header h2, .page-node-reviews.node-type-gpu .view-mode-vmepage_reviews .group-reviews h2, .page-node-reviews.node-type-technology .view-mode-vmepage_reviews .group-reviews h2, .page-node-architecture .group-architecture h2, .page-node-specifications .group-specifications h2, .view-mode-vmepage_faq .group-faq h2, .page-hardware-compare-buy-gpus .drivers-page h2,
+.page-hardware-3d-vision-kits .drivers-page h2,
+.page-hardware-3d-monitors .drivers-page h2, .page-node-buy-online .node-gpu .content h2, .page-hardware-compare-buy-gpus .content h2, .field-name-specifications-title {
+  font-size: 14px;
+  font-weight: bold;
+  height: 35px;
+  line-height: 35px;
+  text-indent: 12px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-top: 15px;
+  text-shadow: black 0 1px 0;
+  overflow: hidden;
+  background-color: #32373b;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FF32373B', endColorstr='#FF373B41');
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #32373b), color-stop(3%, #292e32), color-stop(6%, #262b2e), color-stop(97%, #333a3f), color-stop(100%, #373b41));
+  background-image: -webkit-linear-gradient(top, #32373b 0%, #292e32 3%, #262b2e 6%, #333a3f 97%, #373b41 100%);
+  background-image: -moz-linear-gradient(top, #32373b 0%, #292e32 3%, #262b2e 6%, #333a3f 97%, #373b41 100%);
+  background-image: -o-linear-gradient(top, #32373b 0%, #292e32 3%, #262b2e 6%, #333a3f 97%, #373b41 100%);
+  background-image: linear-gradient(top, #32373b 0%, #292e32 3%, #262b2e 6%, #333a3f 97%, #373b41 100%);
+  border-top: 1px solid #717883;
+  border-right: 1px solid #464b53;
+  border-left: 1px solid #464b53;
+  border-bottom: 1px solid #000303;
+  -webkit-border-radius: 4px 4px 0px 0px;
+  -moz-border-radius: 4px 4px 0px 0px;
+  -ms-border-radius: 4px 4px 0px 0px;
+  -o-border-radius: 4px 4px 0px 0px;
+  border-radius: 4px 4px 0px 0px;
+}
+.view-gpus .view-header h2 h2, .view-notebooks .view-header h2 h2, .view-power-supplies .view-header h2 h2, .view-motherboards .view-header h2 h2, .view-cases .view-header h2 h2, .page-node-performance .group-performance h3 h2, .view-mode-vmepage_performance h3 h2, .view-mode-vmepage_product_demo h2 h2, .view-mode-vmepage_features h2 h2, .view-mode-vmepage_technology h2 h2, .page-node-product-images.node-type-gpu .view-mode-vmepage_product_images h2 h2, .page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter h3 h2, .node-technology .field-name-field-feature-items .overview_item h3 h2, .node-technology .field-name-field-screenshot:before h2, .page-node-technology .group_technology h2 h2, .page-node-tech-demos .view-id-gpu_references h2.title h2, .node-type-technology .view-technology-references .view-header h2 h2, .page-node-reviews.node-type-gpu .view-mode-vmepage_reviews .group-reviews h2 h2, .page-node-reviews.node-type-technology .view-mode-vmepage_reviews .group-reviews h2 h2, .page-node-architecture .group-architecture h2 h2, .page-node-specifications .group-specifications h2 h2, .view-mode-vmepage_faq .group-faq h2 h2, .page-hardware-compare-buy-gpus .drivers-page h2 h2,
+.page-hardware-3d-vision-kits .drivers-page h2 h2,
+.page-hardware-3d-monitors .drivers-page h2 h2, .page-node-buy-online .node-gpu .content h2 h2, .page-hardware-compare-buy-gpus .content h2 h2, .field-name-specifications-title h2 {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 35px;
+}
+
+.power-supplies-product-content, .page-node-specifications .group-specifications .field-name-field-alternate-spec-content, .page-node-specifications .field-name-field-footnotes, .gpu-product-content, .notebook-product-content, .motherboards-product-content, .cases-product-content, .page-node-performance .group-performance .field-name-field-performance-content, .view-mode-vmepage_performance #gfops-gpu-container, .view-mode-vmepage_product_demo .field-name-field-flash-link, .view-mode-vmepage_product_demo .field-name-field-features-content, .view-mode-vmepage_features .field-name-field-flash-link, .view-mode-vmepage_features .field-name-field-features-content, .view-mode-vmepage_technology .field-name-field-flash-link, .view-mode-vmepage_technology .field-name-field-features-content, .page-node-videos #gfjwplayer_gallery_list ul, .page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter .gallery-slides-container, .page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter .gallery-thumbs-container, .node-technology .field-name-field-feature-items .overview_item .overview_item_body, .node-technology .field-name-field-feature-items .overview_item .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .node-technology .field-name-field-feature-items .overview_item div:last-child, .page-node-technology .group_technology .field-name-field-about-section, .page-node-tech-demos .view-id-gpu_references .view-content, .node-type-technology .view-technology-references .view-content, .page-node-reviews.node-type-gpu .view-mode-vmepage_reviews .group-reviews .field-collection-container, .page-node-reviews.node-type-technology .view-mode-vmepage_reviews .group-reviews .field-collection-container, .page-node-architecture .group-architecture .field-name-field-architecture-content, .view-mode-vmepage_faq .group-faq .field-name-field-faq-section, .page-hardware-compare-buy-gpus .drivers-page .contentMiddle,
+.page-hardware-3d-vision-kits .drivers-page .contentMiddle,
+.page-hardware-3d-monitors .drivers-page .contentMiddle, .page-node-buy-online .node-gpu #dynamicMoreInfoContent, .page-node-buy-online .node-gpu .contentMiddle, .page-hardware-compare-buy-gpus .content .contentMiddle {
+  text-align: center;
+  position: relative;
+  padding: 10px;
+  /*background: #1C1F24;*/
+  background: #202427;
+  border: 1px solid #2D313A;
+  -webkit-border-radius: 0px 0px 4px 4px;
+  -moz-border-radius: 0px 0px 4px 4px;
+  -ms-border-radius: 0px 0px 4px 4px;
+  -o-border-radius: 0px 0px 4px 4px;
+  border-radius: 0px 0px 4px 4px;
+}
+.power-supplies-product-content ul, .page-node-specifications .group-specifications .field-name-field-alternate-spec-content ul, .page-node-specifications .field-name-field-footnotes ul, .gpu-product-content ul, .notebook-product-content ul, .motherboards-product-content ul, .cases-product-content ul, .page-node-performance .group-performance .field-name-field-performance-content ul, .view-mode-vmepage_performance #gfops-gpu-container ul, .view-mode-vmepage_product_demo .field-name-field-flash-link ul, .view-mode-vmepage_product_demo .field-name-field-features-content ul, .view-mode-vmepage_features .field-name-field-flash-link ul, .view-mode-vmepage_features .field-name-field-features-content ul, .view-mode-vmepage_technology .field-name-field-flash-link ul, .view-mode-vmepage_technology .field-name-field-features-content ul, .page-node-videos #gfjwplayer_gallery_list ul ul, .page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter .gallery-slides-container ul, .page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter .gallery-thumbs-container ul, .node-technology .field-name-field-feature-items .overview_item .overview_item_body ul, .node-technology .field-name-field-feature-items .overview_item .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child ul, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .node-technology .field-name-field-feature-items .overview_item div:last-child ul, .page-node-technology .group_technology .field-name-field-about-section ul, .page-node-tech-demos .view-id-gpu_references .view-content ul, .node-type-technology .view-technology-references .view-content ul, .page-node-reviews.node-type-gpu .view-mode-vmepage_reviews .group-reviews .field-collection-container ul, .page-node-reviews.node-type-technology .view-mode-vmepage_reviews .group-reviews .field-collection-container ul, .page-node-architecture .group-architecture .field-name-field-architecture-content ul, .view-mode-vmepage_faq .group-faq .field-name-field-faq-section ul, .page-hardware-compare-buy-gpus .drivers-page .contentMiddle ul,
+.page-hardware-3d-vision-kits .drivers-page .contentMiddle ul,
+.page-hardware-3d-monitors .drivers-page .contentMiddle ul, .page-node-buy-online .node-gpu #dynamicMoreInfoContent ul, .page-node-buy-online .node-gpu .contentMiddle ul, .page-hardware-compare-buy-gpus .content .contentMiddle ul {
+  list-style: none;
+  margin: 0;
+}
+
+.field-name-field-reviews-section {
+  position: relative;
+  padding: 10px;
+  /*background: #1C1F24;*/
+  background: #202427;
+  border: 1px solid #2D313A;
+  -webkit-border-radius: 0px 0px 4px 4px;
+  -moz-border-radius: 0px 0px 4px 4px;
+  -ms-border-radius: 0px 0px 4px 4px;
+  -o-border-radius: 0px 0px 4px 4px;
+  border-radius: 0px 0px 4px 4px;
+}
+
+.view-gpus .view-header h2, .view-notebooks .view-header h2, .view-power-supplies .view-header h2, .view-motherboards .view-header h2, .view-cases .view-header h2, .page-node-performance .group-performance h3, .view-mode-vmepage_performance h3, .view-mode-vmepage_product_demo h2, .view-mode-vmepage_features h2, .view-mode-vmepage_technology h2, .page-node-product-images.node-type-gpu .view-mode-vmepage_product_images h2, .page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter h3, .node-technology .field-name-field-feature-items .overview_item h3, .node-technology .field-name-field-screenshot:before, .page-node-technology .group_technology h2, .page-node-tech-demos .view-id-gpu_references h2.title, .node-type-technology .view-technology-references .view-header h2, .page-node-reviews.node-type-gpu .view-mode-vmepage_reviews .group-reviews h2, .page-node-reviews.node-type-technology .view-mode-vmepage_reviews .group-reviews h2, .page-node-architecture .group-architecture h2, .page-node-specifications .group-specifications h2, .view-mode-vmepage_faq .group-faq h2, .page-hardware-compare-buy-gpus .drivers-page h2,
+.page-hardware-3d-vision-kits .drivers-page h2,
+.page-hardware-3d-monitors .drivers-page h2, .page-node-buy-online .node-gpu .content h2, .page-hardware-compare-buy-gpus .content h2 {
+  font-size: 16px;
+}
+
+.view-gpus .view-header a, .view-notebooks .view-header a, .view-power-supplies .view-header a, .view-motherboards .view-header a, .view-cases .view-header a, .page-node-specifications .group-specifications .field-name-gpu-disclaimer-text .field-item {
+  position: relative;
+  padding: 10px;
+  background: #202427;
+  border-left: 1px solid #2D313A;
+  border-right: 1px solid #2D313A;
+  border-top: 1px solid #2D313A;
+}
+
+.page-node-specifications .group-specifications .group_specifications_main, .field-name-field-pdf-of-supported-psus {
+  position: relative;
+  padding: 10px;
+  background: #202427;
+  border-left: 1px solid #2D313A;
+  border-right: 1px solid #2D313A;
+}
+
+.power-supplies-product-content, .page-node-specifications .group-specifications .field-name-field-alternate-spec-content, .page-node-specifications .field-name-field-footnotes {
+  background: #202427;
+  border-top: 0px;
+}
+
+.view-mode-vmepage_performance #gfops-gpu-container .gfops-ops-selector-wrapper {
+  background: #181B1E;
+  -webkit-box-shadow: black 1px 1px 1px inset;
+  -moz-box-shadow: black 1px 1px 1px inset;
+  box-shadow: black 1px 1px 1px inset;
+  border-bottom: 1px solid #333;
+  border-right: 1px solid #333;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.page-node-whats-new .view-mode-vmepage_whats_new .views-row, .page-node-videos #gfjwplayer_gallery_list ul li a {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  border: 1px solid #464b50;
+  -webkit-box-shadow: black 1px 1px 1px;
+  -moz-box-shadow: black 1px 1px 1px;
+  box-shadow: black 1px 1px 1px;
+  padding: 10px;
+  text-align: left;
+  cursor: pointer;
+  background-color: #262c30;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FF262C30', endColorstr='#FF1E2125');
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #262c30), color-stop(100%, #1e2125));
+  background-image: -webkit-linear-gradient(top, #262c30 0%, #1e2125 100%);
+  background-image: -moz-linear-gradient(top, #262c30 0%, #1e2125 100%);
+  background-image: -o-linear-gradient(top, #262c30 0%, #1e2125 100%);
+  background-image: linear-gradient(top, #262c30 0%, #1e2125 100%);
+  -webkit-transition-property: *;
+  -moz-transition-property: *;
+  -o-transition-property: *;
+  transition-property: *;
+  -webkit-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  transition-duration: .3s;
+}
+
+.page-node-videos #gfjwplayer_gallery_list ul li a:hover, .page-node-whats-new .view-mode-vmepage_whats_new .views-row:hover {
+  background-color: #3d474e;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FF3D474E', endColorstr='#FF282C32');
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #3d474e), color-stop(32%, #373f47), color-stop(68%, #2d3439), color-stop(100%, #282c32));
+  background-image: -webkit-linear-gradient(top, #3d474e 0%, #373f47 32%, #2d3439 68%, #282c32 100%);
+  background-image: -moz-linear-gradient(top, #3d474e 0%, #373f47 32%, #2d3439 68%, #282c32 100%);
+  background-image: -o-linear-gradient(top, #3d474e 0%, #373f47 32%, #2d3439 68%, #282c32 100%);
+  background-image: linear-gradient(top, #3d474e 0%, #373f47 32%, #2d3439 68%, #282c32 100%);
+}
+
+.page-node.node-type-gpu .field-name-field-feature-items .overview_item, .page-node.node-type-gpu .field-name-field-reviews .overview_item, .page-node.node-type-gpu .field-name-field-featured-games, .page-node.node-type-gpu .group_geforce_technologies.group-geforce-technologies, .page-node.node-type-gpu .block-gpu-feature, .page-node.node-type-gpu #block-views-gpus-product-family, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG {
+  background-color: #202327;
+  border: 1px solid #2C2E33;
+  border-radius: 6px 6px 6px 6px;
+  box-shadow: 2px 2px 0 #111111;
+}
+
+.view-display-id-leftnav_technologies .view-header h3, .page-node.node-type-gpu .field-name-field-feature-items .overview_item_title, .page-node.node-type-gpu .field-name-field-reviews .overview_item_title, .page-node.node-type-gpu .field-name-field-featured-games h3, .page-node.node-type-gpu .group_geforce_technologies.group-geforce-technologies h3, .page-node.node-type-gpu .block-gpu-feature h3, .page-node.node-type-gpu #block-views-gpus-product-family h3, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .panel_title {
+  background: url("../images/green_divider.png") repeat-x 0 100%;
+  color: white !important;
+  font-size: 18px !important;
+  font-weight: normal !important;
+  line-height: 1.5em !important;
+  padding-bottom: 2px !important;
+  padding-left: 10px !important;
+  padding-top: 2px !important;
+  text-shadow: 0 1px 0 #000000 !important;
+}
+
+.view-mode-leftnav_item .field-item a span {
+  position: absolute;
+  right: 20px;
+  top: 12px;
+}
+.view-mode-leftnav_item .field-item a span:after, .view-mode-leftnav_item .field-item a span:before {
+  left: 100%;
+  border: solid transparent;
+  content: '';
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+.view-mode-leftnav_item .field-item a span:after {
+  border-color: rgba(26, 27, 30, 0);
+  border-left-color: #1A1B1E;
+  border-width: 3px;
+  top: 50%;
+  margin-top: -3px;
+}
+.view-mode-leftnav_item .field-item a span:before {
+  border-color: rgba(129, 131, 132, 0);
+  /* border-left-color: #818384; */
+  border-left-color: #CCCCCC;
+  border-width: 4px;
+  top: 50%;
+  margin-top: -4px;
+}
+
+.styled-rows, .gpu-product-content .view-content .views-row, .power-supplies-product-content .view-content .views-row, .motherboards-product-content .view-content .views-row, .cases-product-content .view-content .views-row, .styled-rows2 .views-row, .page-node-games.node-type-technology .view-mode-vmepage_games .views-row, .page-node-tech-demos .view-technology-references .views-row, .page-node-applications.node-type-technology .view-id-technology_references .views-row, .styled-rows3, .view-id-notebooks .views-row, .page-node-tech-demos .view-id-gpu_references .view-content .views-row, .page-node-supported-gpus .view-id-technology_references .views-row {
+  background-image: url("../images/main_rightNav_smallcapsule_background.png");
+  background-repeat: no-repeat;
+  clear: both;
+  cursor: pointer;
+  float: left;
+  height: 89px;
+  padding-left: 10px;
+  padding-right: 20px;
+  position: relative;
+  text-align: left;
+  width: 647px;
+}
+.styled-rows:hover, .gpu-product-content .view-content .views-row:hover, .power-supplies-product-content .view-content .views-row:hover, .motherboards-product-content .view-content .views-row:hover, .cases-product-content .view-content .views-row:hover, .styled-rows2 .views-row:hover, .page-node-games.node-type-technology .view-mode-vmepage_games .views-row:hover, .page-node-tech-demos .view-technology-references .views-row:hover, .page-node-applications.node-type-technology .view-id-technology_references .views-row:hover, .styled-rows3:hover, .view-id-notebooks .views-row:hover, .page-node-tech-demos .view-id-gpu_references .view-content .views-row:hover, .page-node-supported-gpus .view-id-technology_references .views-row:hover {
+  background-image: url("../images/main_rightNav_smallcapsule_background_overlay.png");
+}
+
+.page-node-whats-new .view-mode-vmepage_whats_new .views-row {
+  margin-bottom: 10px;
+  min-height: 62px;
+  padding-right: 0px;
+}
+.page-node-whats-new .view-mode-vmepage_whats_new .views-row a:hover {
+  color: #76b900;
+  text-decoration: none;
+}
+
+.ds-1col.node.node-gpu.node-promoted.view-mode-grid_teaser {
+  position: relative;
+}
+
+.node-gpu.node-promoted.view-mode-grid_teaser .field-name-title {
+  position: absolute;
+  top: 75px;
+  width: 215px;
+}
+
+.node-gpu.view-mode-hero_teaser_hardware .field-name-title .field-item h2 {
+  margin-top: 5px !important;
+}
+.node-gpu.view-mode-hero_teaser_hardware .field-name-field-short-description .field-item {
+  height: 60px;
+}
+
+#gfjwplayer_gallery_video_title
+.page-hardware #main-container #main #content {
+  padding-top: 15px;
+}
+#gfjwplayer_gallery_video_title
+.page-hardware a:hover {
+  text-decoration: none;
+}
+
+.pager-item {
+  line-height: 22px;
+}
+
+.view-nodelist-featured .views-view-grid .views-field-field-ref-list-items {
+  -webkit-transition-property: color;
+  -moz-transition-property: color;
+  -o-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  transition-duration: .3s;
+  -webkit-transition-delay: .1s;
+  -moz-transition-delay: .1s;
+  -o-transition-delay: .1s;
+  transition-delay: .1s;
+  padding: 2px;
+}
+
+.page-hardware .view-nodelist-featured .views-view-grid td {
+  padding-right: 10px;
+}
+.page-hardware .view-nodelist-featured .views-view-grid td:hover {
+  /*padding-right:6px;*/
+}
+
+table.cols-4 tbody tr td .node-technology {
+  margin-left: 8px;
+  margin-top: 8px;
+}
+
+/*.views-slideshow-cycle-main-frame-row-item {
+  .field-name-title{
+    position: absolute;
+    top: 144px;
+    left: 0px;
+  }
+
+  .field-name-field-short-description{
+    position: absolute;
+    top: 180px;
+    left: 0px;
+  }
+}*/
+.view-nodelist-product-lineup .view-content .views-view-grid.cols-3 tbody tr td {
+  vertical-align: top !important;
+}
+.view-nodelist-product-lineup .view-content td {
+  border-right: 1px solid #3a3d3f;
+}
+
+.node-product-lineup h3 {
+  color: #CCCCCC;
+  margin-bottom: 10px;
+  margin-top: 15px;
+}
+
+.view-technologies .view-content {
+  padding-top: 10px;
+}
+
+.view-technologies {
+  background-color: #202327;
+  border: 1px solid #2c2e33;
+  padding-bottom: 20px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  border-radius: 6px;
+}
+
+.view-nodelist-product-lineup, .view-technologies {
+  margin-top: 15px;
+}
+.view-nodelist-product-lineup .view-header h2, .view-technologies .view-header h2 {
+  font-size: 18px;
+  height: 30px;
+}
+.view-nodelist-product-lineup .view-content, .view-technologies .view-content {
+  -webkit-box-shadow: #90bd00 0px -3px 0px;
+  -moz-box-shadow: #90bd00 0px -3px 0px;
+  box-shadow: #90bd00 0px -3px 0px;
+}
+
+.view-display-id-leftnav_technologies {
+  margin-right: 15px;
+  padding-bottom: 10px;
+}
+.view-display-id-leftnav_technologies .view-header h3 {
+  font-size: 16px !important;
+  height: 27px;
+  margin-bottom: 0;
+}
+.view-display-id-leftnav_technologies .view-content ul li {
+  line-height: 1.5em;
+  margin-left: 10px;
+  list-style: none;
+  list-style-type: none;
+}
+.view-display-id-leftnav_technologies .view-content ul li a {
+  color: #eee;
+}
+
+.node-technology {
+  position: relative;
+}
+.node-technology .field-name-title {
+  width: 100%;
+}
+
+.group-left .field-name-field-featured-image .field-item {
+  display: block;
+  height: 79px;
+  vertical-align: middle;
+}
+.group-left .field-name-field-featured-image .field-item img {
+  margin: 10px auto;
+}
+
+.view-id-notebooks .views-row .group-left {
+  display: table-cell;
+  vertical-align: middle;
+  width: 100px;
+}
+.view-id-notebooks .views-row .group-middle {
+  padding-top: 20px;
+  margin-top: 0px !important;
+}
+.view-id-notebooks .views-row .group-middle .field-name-title {
+  color: #76b900;
+  font-size: 15px;
+  font-weight: bold;
+}
+.view-id-notebooks .views-row .group-middle .field-name-field-gpu {
+  color: #ccc;
+}
+.view-id-notebooks .views-row .group-right {
+  float: right;
+  margin-right: 30px;
+  margin-top: 26px;
+  text-align: right;
+}
+.view-id-notebooks .views-row .group-right a {
+  text-align: center;
+}
+
+.view-gpus .view-header, .view-notebooks .view-header, .view-power-supplies .view-header, .view-motherboards .view-header, .view-cases .view-power-supplies .view-header, .view-cases .view-header {
+  /*@extend %sidebar-info-content-middle;
+  padding: 5px;
+  */
+  position: relative;
+}
+.view-gpus .view-header h2, .view-notebooks .view-header h2, .view-power-supplies .view-header h2, .view-motherboards .view-header h2, .view-cases .view-power-supplies .view-header h2, .view-cases .view-header h2 {
+  margin-top: 0px !important;
+}
+.view-gpus .view-header a, .view-notebooks .view-header a, .view-power-supplies .view-header a, .view-motherboards .view-header a, .view-cases .view-power-supplies .view-header a, .view-cases .view-header a {
+  display: block;
+  padding-left: 30px;
+  text-decoration: underline;
+}
+.view-gpus .view-header a:before, .view-notebooks .view-header a:before, .view-power-supplies .view-header a:before, .view-motherboards .view-header a:before, .view-cases .view-power-supplies .view-header a:before, .view-cases .view-header a:before {
+  content: "";
+  display: block;
+  left: 5px;
+  position: absolute;
+  z-index: 2;
+}
+.view-gpus .view-filters, .view-notebooks .view-filters, .view-power-supplies .view-filters, .view-motherboards .view-filters, .view-cases .view-power-supplies .view-filters, .view-cases .view-filters {
+  margin-top: 0px;
+}
+.view-gpus .view-filters > .item-list, .view-notebooks .view-filters > .item-list, .view-power-supplies .view-filters > .item-list, .view-motherboards .view-filters > .item-list, .view-cases .view-power-supplies .view-filters > .item-list, .view-cases .view-filters > .item-list {
+  position: absolute;
+  right: 10px;
+  top: 0px;
+}
+.view-gpus .view-filters .views-reset-button, .view-notebooks .view-filters .views-reset-button, .view-power-supplies .view-filters .views-reset-button, .view-motherboards .view-filters .views-reset-button, .view-cases .view-power-supplies .view-filters .views-reset-button, .view-cases .view-filters .views-reset-button {
+  position: absolute;
+  right: 200px;
+  top: 13px;
+  padding: 0;
+  font-size: 8px;
+  line-height: 8px;
+  display: none;
+}
+.view-gpus .view-filters .views-reset-button .form-submit, .view-notebooks .view-filters .views-reset-button .form-submit, .view-power-supplies .view-filters .views-reset-button .form-submit, .view-motherboards .view-filters .views-reset-button .form-submit, .view-cases .view-power-supplies .view-filters .views-reset-button .form-submit, .view-cases .view-filters .views-reset-button .form-submit {
+  background: none;
+  font-size: 8px;
+  line-height: 8px;
+  color: #76b900;
+  text-decoration: underline !important;
+  text-transform: capitalize;
+  margin: 0;
+  padding: 0;
+  border: none;
+  border-radius: 0px;
+  border-bottom: 1px solid #76b900;
+}
+.view-gpus .view-filters .views-reset-button .form-submit:hover, .view-notebooks .view-filters .views-reset-button .form-submit:hover, .view-power-supplies .view-filters .views-reset-button .form-submit:hover, .view-motherboards .view-filters .views-reset-button .form-submit:hover, .view-cases .view-power-supplies .view-filters .views-reset-button .form-submit:hover, .view-cases .view-filters .views-reset-button .form-submit:hover {
+  color: white;
+}
+.view-gpus .view-filters .views-submit-button, .view-notebooks .view-filters .views-submit-button, .view-power-supplies .view-filters .views-submit-button, .view-motherboards .view-filters .views-submit-button, .view-cases .view-power-supplies .view-filters .views-submit-button, .view-cases .view-filters .views-submit-button {
+  display: none;
+  visibility: hidden;
+}
+.view-gpus .view-filters label, .view-notebooks .view-filters label, .view-power-supplies .view-filters label, .view-motherboards .view-filters label, .view-cases .view-power-supplies .view-filters label, .view-cases .view-filters label {
+  visibility: hidden;
+  display: none;
+}
+.view-gpus .view-empty, .view-notebooks .view-empty, .view-power-supplies .view-empty, .view-motherboards .view-empty, .view-cases .view-power-supplies .view-empty, .view-cases .view-empty {
+  color: #76b900;
+  font-weight: bold;
+  height: 30px;
+  padding-top: 20px;
+}
+.view-gpus .views-reset-button, .view-notebooks .views-reset-button, .view-power-supplies .views-reset-button, .view-motherboards .views-reset-button, .view-cases .view-power-supplies .views-reset-button, .view-cases .views-reset-button {
+  position: relative !important;
+  right: -30px !important;
+  top: 13px;
+  padding: 0;
+  font-size: 8px;
+  line-height: 8px;
+  /*display: none;*/
+}
+.view-gpus .views-reset-button .form-submit, .view-notebooks .views-reset-button .form-submit, .view-power-supplies .views-reset-button .form-submit, .view-motherboards .views-reset-button .form-submit, .view-cases .view-power-supplies .views-reset-button .form-submit, .view-cases .views-reset-button .form-submit {
+  background: none;
+  font-size: 8px;
+  line-height: 8px;
+  color: #76b900;
+  text-decoration: underline !important;
+  text-transform: capitalize;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+.view-gpus .views-reset-button .form-submit:hover, .view-notebooks .views-reset-button .form-submit:hover, .view-power-supplies .views-reset-button .form-submit:hover, .view-motherboards .views-reset-button .form-submit:hover, .view-cases .view-power-supplies .views-reset-button .form-submit:hover, .view-cases .views-reset-button .form-submit:hover {
+  color: white;
+}
+
+.gpu-product-content, .notebook-product-content, .motherboards-product-content, .cases-product-content {
+  overflow: hidden;
+}
+
+.gpu-product-content .view-content .node-gpu, .gpu-product-content .view-content .node-notebook, .gpu-product-content .view-content .node-psu, .gpu-product-content .view-content .node-mcp, .gpu-product-content .view-content .node-case, .power-supplies-product-content .view-content .node-gpu, .power-supplies-product-content .view-content .node-notebook, .power-supplies-product-content .view-content .node-psu, .power-supplies-product-content .view-content .node-mcp, .power-supplies-product-content .view-content .node-case, .motherboards-product-content .view-content .node-gpu, .motherboards-product-content .view-content .node-notebook, .motherboards-product-content .view-content .node-psu, .motherboards-product-content .view-content .node-mcp, .motherboards-product-content .view-content .node-case, .cases-product-content .view-content .node-gpu, .cases-product-content .view-content .node-notebook, .cases-product-content .view-content .node-psu, .cases-product-content .view-content .node-mcp, .cases-product-content .view-content .node-case {
+  margin: 5px;
+  height: 75px;
+  width: 625px;
+  /*
+  .field-name-field-buy-now-link a, .field-name-node-link div div a, .views-row .field-name-node-link div div a {
+    @extend .btn-green;
+    padding: 5px 15px;
+    width: 67px;
+  }
+  */
+}
+.gpu-product-content .view-content .node-gpu .group-left, .gpu-product-content .view-content .node-notebook .group-left, .gpu-product-content .view-content .node-psu .group-left, .gpu-product-content .view-content .node-mcp .group-left, .gpu-product-content .view-content .node-case .group-left, .power-supplies-product-content .view-content .node-gpu .group-left, .power-supplies-product-content .view-content .node-notebook .group-left, .power-supplies-product-content .view-content .node-psu .group-left, .power-supplies-product-content .view-content .node-mcp .group-left, .power-supplies-product-content .view-content .node-case .group-left, .motherboards-product-content .view-content .node-gpu .group-left, .motherboards-product-content .view-content .node-notebook .group-left, .motherboards-product-content .view-content .node-psu .group-left, .motherboards-product-content .view-content .node-mcp .group-left, .motherboards-product-content .view-content .node-case .group-left, .cases-product-content .view-content .node-gpu .group-left, .cases-product-content .view-content .node-notebook .group-left, .cases-product-content .view-content .node-psu .group-left, .cases-product-content .view-content .node-mcp .group-left, .cases-product-content .view-content .node-case .group-left {
+  width: 110px;
+}
+.gpu-product-content .view-content .node-gpu .group-left .field-name-field-small-thumbnail a, .gpu-product-content .view-content .node-notebook .group-left .field-name-field-small-thumbnail a, .gpu-product-content .view-content .node-psu .group-left .field-name-field-small-thumbnail a, .gpu-product-content .view-content .node-mcp .group-left .field-name-field-small-thumbnail a, .gpu-product-content .view-content .node-case .group-left .field-name-field-small-thumbnail a, .power-supplies-product-content .view-content .node-gpu .group-left .field-name-field-small-thumbnail a, .power-supplies-product-content .view-content .node-notebook .group-left .field-name-field-small-thumbnail a, .power-supplies-product-content .view-content .node-psu .group-left .field-name-field-small-thumbnail a, .power-supplies-product-content .view-content .node-mcp .group-left .field-name-field-small-thumbnail a, .power-supplies-product-content .view-content .node-case .group-left .field-name-field-small-thumbnail a, .motherboards-product-content .view-content .node-gpu .group-left .field-name-field-small-thumbnail a, .motherboards-product-content .view-content .node-notebook .group-left .field-name-field-small-thumbnail a, .motherboards-product-content .view-content .node-psu .group-left .field-name-field-small-thumbnail a, .motherboards-product-content .view-content .node-mcp .group-left .field-name-field-small-thumbnail a, .motherboards-product-content .view-content .node-case .group-left .field-name-field-small-thumbnail a, .cases-product-content .view-content .node-gpu .group-left .field-name-field-small-thumbnail a, .cases-product-content .view-content .node-notebook .group-left .field-name-field-small-thumbnail a, .cases-product-content .view-content .node-psu .group-left .field-name-field-small-thumbnail a, .cases-product-content .view-content .node-mcp .group-left .field-name-field-small-thumbnail a, .cases-product-content .view-content .node-case .group-left .field-name-field-small-thumbnail a {
+  display: table-cell;
+  vertical-align: middle;
+  height: 79px;
+}
+.gpu-product-content .view-content .node-gpu .group-left .field-name-field-small-thumbnail a img, .gpu-product-content .view-content .node-notebook .group-left .field-name-field-small-thumbnail a img, .gpu-product-content .view-content .node-psu .group-left .field-name-field-small-thumbnail a img, .gpu-product-content .view-content .node-mcp .group-left .field-name-field-small-thumbnail a img, .gpu-product-content .view-content .node-case .group-left .field-name-field-small-thumbnail a img, .power-supplies-product-content .view-content .node-gpu .group-left .field-name-field-small-thumbnail a img, .power-supplies-product-content .view-content .node-notebook .group-left .field-name-field-small-thumbnail a img, .power-supplies-product-content .view-content .node-psu .group-left .field-name-field-small-thumbnail a img, .power-supplies-product-content .view-content .node-mcp .group-left .field-name-field-small-thumbnail a img, .power-supplies-product-content .view-content .node-case .group-left .field-name-field-small-thumbnail a img, .motherboards-product-content .view-content .node-gpu .group-left .field-name-field-small-thumbnail a img, .motherboards-product-content .view-content .node-notebook .group-left .field-name-field-small-thumbnail a img, .motherboards-product-content .view-content .node-psu .group-left .field-name-field-small-thumbnail a img, .motherboards-product-content .view-content .node-mcp .group-left .field-name-field-small-thumbnail a img, .motherboards-product-content .view-content .node-case .group-left .field-name-field-small-thumbnail a img, .cases-product-content .view-content .node-gpu .group-left .field-name-field-small-thumbnail a img, .cases-product-content .view-content .node-notebook .group-left .field-name-field-small-thumbnail a img, .cases-product-content .view-content .node-psu .group-left .field-name-field-small-thumbnail a img, .cases-product-content .view-content .node-mcp .group-left .field-name-field-small-thumbnail a img, .cases-product-content .view-content .node-case .group-left .field-name-field-small-thumbnail a img {
+  margin: 0px !important;
+}
+.gpu-product-content .view-content .node-gpu .group-middle, .gpu-product-content .view-content .node-notebook .group-middle, .gpu-product-content .view-content .node-psu .group-middle, .gpu-product-content .view-content .node-mcp .group-middle, .gpu-product-content .view-content .node-case .group-middle, .power-supplies-product-content .view-content .node-gpu .group-middle, .power-supplies-product-content .view-content .node-notebook .group-middle, .power-supplies-product-content .view-content .node-psu .group-middle, .power-supplies-product-content .view-content .node-mcp .group-middle, .power-supplies-product-content .view-content .node-case .group-middle, .motherboards-product-content .view-content .node-gpu .group-middle, .motherboards-product-content .view-content .node-notebook .group-middle, .motherboards-product-content .view-content .node-psu .group-middle, .motherboards-product-content .view-content .node-mcp .group-middle, .motherboards-product-content .view-content .node-case .group-middle, .cases-product-content .view-content .node-gpu .group-middle, .cases-product-content .view-content .node-notebook .group-middle, .cases-product-content .view-content .node-psu .group-middle, .cases-product-content .view-content .node-mcp .group-middle, .cases-product-content .view-content .node-case .group-middle {
+  color: #CCCCCC;
+  line-height: 1.3;
+  width: 400px;
+  margin-top: 4px;
+}
+.gpu-product-content .view-content .node-gpu .group-middle .field-name-title, .gpu-product-content .view-content .node-notebook .group-middle .field-name-title, .gpu-product-content .view-content .node-psu .group-middle .field-name-title, .gpu-product-content .view-content .node-mcp .group-middle .field-name-title, .gpu-product-content .view-content .node-case .group-middle .field-name-title, .power-supplies-product-content .view-content .node-gpu .group-middle .field-name-title, .power-supplies-product-content .view-content .node-notebook .group-middle .field-name-title, .power-supplies-product-content .view-content .node-psu .group-middle .field-name-title, .power-supplies-product-content .view-content .node-mcp .group-middle .field-name-title, .power-supplies-product-content .view-content .node-case .group-middle .field-name-title, .motherboards-product-content .view-content .node-gpu .group-middle .field-name-title, .motherboards-product-content .view-content .node-notebook .group-middle .field-name-title, .motherboards-product-content .view-content .node-psu .group-middle .field-name-title, .motherboards-product-content .view-content .node-mcp .group-middle .field-name-title, .motherboards-product-content .view-content .node-case .group-middle .field-name-title, .cases-product-content .view-content .node-gpu .group-middle .field-name-title, .cases-product-content .view-content .node-notebook .group-middle .field-name-title, .cases-product-content .view-content .node-psu .group-middle .field-name-title, .cases-product-content .view-content .node-mcp .group-middle .field-name-title, .cases-product-content .view-content .node-case .group-middle .field-name-title {
+  color: #76B900;
+  font-size: 15px;
+  font-weight: bold;
+}
+.gpu-product-content .view-content .node-gpu .group-middle .field-name-title a:hover, .gpu-product-content .view-content .node-notebook .group-middle .field-name-title a:hover, .gpu-product-content .view-content .node-psu .group-middle .field-name-title a:hover, .gpu-product-content .view-content .node-mcp .group-middle .field-name-title a:hover, .gpu-product-content .view-content .node-case .group-middle .field-name-title a:hover, .power-supplies-product-content .view-content .node-gpu .group-middle .field-name-title a:hover, .power-supplies-product-content .view-content .node-notebook .group-middle .field-name-title a:hover, .power-supplies-product-content .view-content .node-psu .group-middle .field-name-title a:hover, .power-supplies-product-content .view-content .node-mcp .group-middle .field-name-title a:hover, .power-supplies-product-content .view-content .node-case .group-middle .field-name-title a:hover, .motherboards-product-content .view-content .node-gpu .group-middle .field-name-title a:hover, .motherboards-product-content .view-content .node-notebook .group-middle .field-name-title a:hover, .motherboards-product-content .view-content .node-psu .group-middle .field-name-title a:hover, .motherboards-product-content .view-content .node-mcp .group-middle .field-name-title a:hover, .motherboards-product-content .view-content .node-case .group-middle .field-name-title a:hover, .cases-product-content .view-content .node-gpu .group-middle .field-name-title a:hover, .cases-product-content .view-content .node-notebook .group-middle .field-name-title a:hover, .cases-product-content .view-content .node-psu .group-middle .field-name-title a:hover, .cases-product-content .view-content .node-mcp .group-middle .field-name-title a:hover, .cases-product-content .view-content .node-case .group-middle .field-name-title a:hover {
+  color: #76B900;
+  text-decoration: none;
+}
+.gpu-product-content .view-content .node-gpu .group-middle .field-name-field-short-description, .gpu-product-content .view-content .node-notebook .group-middle .field-name-field-short-description, .gpu-product-content .view-content .node-psu .group-middle .field-name-field-short-description, .gpu-product-content .view-content .node-mcp .group-middle .field-name-field-short-description, .gpu-product-content .view-content .node-case .group-middle .field-name-field-short-description, .power-supplies-product-content .view-content .node-gpu .group-middle .field-name-field-short-description, .power-supplies-product-content .view-content .node-notebook .group-middle .field-name-field-short-description, .power-supplies-product-content .view-content .node-psu .group-middle .field-name-field-short-description, .power-supplies-product-content .view-content .node-mcp .group-middle .field-name-field-short-description, .power-supplies-product-content .view-content .node-case .group-middle .field-name-field-short-description, .motherboards-product-content .view-content .node-gpu .group-middle .field-name-field-short-description, .motherboards-product-content .view-content .node-notebook .group-middle .field-name-field-short-description, .motherboards-product-content .view-content .node-psu .group-middle .field-name-field-short-description, .motherboards-product-content .view-content .node-mcp .group-middle .field-name-field-short-description, .motherboards-product-content .view-content .node-case .group-middle .field-name-field-short-description, .cases-product-content .view-content .node-gpu .group-middle .field-name-field-short-description, .cases-product-content .view-content .node-notebook .group-middle .field-name-field-short-description, .cases-product-content .view-content .node-psu .group-middle .field-name-field-short-description, .cases-product-content .view-content .node-mcp .group-middle .field-name-field-short-description, .cases-product-content .view-content .node-case .group-middle .field-name-field-short-description {
+  font-size: 13px;
+}
+.gpu-product-content .view-content .node-gpu .group-right, .gpu-product-content .view-content .node-notebook .group-right, .gpu-product-content .view-content .node-psu .group-right, .gpu-product-content .view-content .node-mcp .group-right, .gpu-product-content .view-content .node-case .group-right, .power-supplies-product-content .view-content .node-gpu .group-right, .power-supplies-product-content .view-content .node-notebook .group-right, .power-supplies-product-content .view-content .node-psu .group-right, .power-supplies-product-content .view-content .node-mcp .group-right, .power-supplies-product-content .view-content .node-case .group-right, .motherboards-product-content .view-content .node-gpu .group-right, .motherboards-product-content .view-content .node-notebook .group-right, .motherboards-product-content .view-content .node-psu .group-right, .motherboards-product-content .view-content .node-mcp .group-right, .motherboards-product-content .view-content .node-case .group-right, .cases-product-content .view-content .node-gpu .group-right, .cases-product-content .view-content .node-notebook .group-right, .cases-product-content .view-content .node-psu .group-right, .cases-product-content .view-content .node-mcp .group-right, .cases-product-content .view-content .node-case .group-right {
+  width: 105px;
+  margin-top: 25px;
+}
+.gpu-product-content .view-content .node-gpu .group-right a:hover, .gpu-product-content .view-content .node-notebook .group-right a:hover, .gpu-product-content .view-content .node-psu .group-right a:hover, .gpu-product-content .view-content .node-mcp .group-right a:hover, .gpu-product-content .view-content .node-case .group-right a:hover, .power-supplies-product-content .view-content .node-gpu .group-right a:hover, .power-supplies-product-content .view-content .node-notebook .group-right a:hover, .power-supplies-product-content .view-content .node-psu .group-right a:hover, .power-supplies-product-content .view-content .node-mcp .group-right a:hover, .power-supplies-product-content .view-content .node-case .group-right a:hover, .motherboards-product-content .view-content .node-gpu .group-right a:hover, .motherboards-product-content .view-content .node-notebook .group-right a:hover, .motherboards-product-content .view-content .node-psu .group-right a:hover, .motherboards-product-content .view-content .node-mcp .group-right a:hover, .motherboards-product-content .view-content .node-case .group-right a:hover, .cases-product-content .view-content .node-gpu .group-right a:hover, .cases-product-content .view-content .node-notebook .group-right a:hover, .cases-product-content .view-content .node-psu .group-right a:hover, .cases-product-content .view-content .node-mcp .group-right a:hover, .cases-product-content .view-content .node-case .group-right a:hover {
+  text-decoration: none;
+}
+
+.field-name-field-buy-now-link a {
+  padding: 5px 15px;
+  width: 67px;
+}
+
+.gpu-product-content .views-row .field-name-node-link div div a {
+  padding: 5px 15px;
+  width: 67px;
+}
+
+.power-supplies-product-content {
+  overflow: hidden;
+}
+.power-supplies-product-content .view-filters {
+  /*
+  display: none;
+  visibility: hidden;
+  */
+}
+
+/* Hide search box on technology / .. / motherboards */
+/* Product node Pages */
+.page-node.node-type-gpu {
+  /* Header */
+  /* Items below header */
+}
+.page-node.node-type-gpu .view-mode-full {
+  position: relative;
+  /* Hardware / ... GPUS / gpu name / OVERVIEW */
+}
+.page-node.node-type-gpu .view-mode-full .field-name-title {
+  left: 15px;
+  position: absolute;
+  top: 150px;
+}
+.page-node.node-type-gpu .view-mode-full .field-name-title h2 {
+  color: #76b900;
+  font-size: 14px;
+}
+.page-node.node-type-gpu .view-mode-full .field-name-long-description, .page-node.node-type-gpu .view-mode-full .field-name-field-long-description {
+  color: #cccccc;
+  left: 15px;
+  position: absolute;
+  top: 175px;
+  width: 620px;
+  font-size: 13px;
+}
+.page-node.node-type-gpu .view-mode-full .group-geforce-technologies {
+  padding-bottom: 10px;
+}
+.page-node.node-type-gpu .view-mode-full .group-geforce-technologies .overview_item a:hover {
+  text-decoration: none;
+}
+.page-node.node-type-gpu .view-mode-full .group-geforce-technologies .overview_item .overview_item_body .overview_item_text, .page-node.node-type-gpu .view-mode-full .group-geforce-technologies .overview_item .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child .overview_item_text, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .page-node.node-type-gpu .view-mode-full .group-geforce-technologies .overview_item div:last-child .overview_item_text {
+  margin-top: -24px;
+}
+.page-node.node-type-gpu .field-name-field-feature-items, .page-node.node-type-gpu .field-name-field-reviews {
+  width: 683px;
+}
+.page-node.node-type-gpu .field-name-field-feature-items .overview_item, .page-node.node-type-gpu .field-name-field-reviews .overview_item {
+  float: left;
+  margin: 15px 15px 0px 0px;
+  width: 324px;
+}
+.page-node.node-type-gpu .field-name-field-feature-items .overview_item_body, .page-node.node-type-gpu .field-name-field-feature-items .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .page-node.node-type-gpu .field-name-field-feature-items div:last-child, .page-node.node-type-gpu .field-name-field-reviews .overview_item_body, .page-node.node-type-gpu .field-name-field-reviews .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .page-node.node-type-gpu .field-name-field-reviews div:last-child {
+  padding: 5px;
+  position: relative;
+}
+.page-node.node-type-gpu .field-name-field-feature-items .overview_item_body .overview_item_thumbnail, .page-node.node-type-gpu .field-name-field-feature-items .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child .overview_item_thumbnail, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .page-node.node-type-gpu .field-name-field-feature-items div:last-child .overview_item_thumbnail, .page-node.node-type-gpu .field-name-field-reviews .overview_item_body .overview_item_thumbnail, .page-node.node-type-gpu .field-name-field-reviews .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child .overview_item_thumbnail, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .page-node.node-type-gpu .field-name-field-reviews div:last-child .overview_item_thumbnail {
+  float: left;
+  padding: 10px;
+}
+.page-node.node-type-gpu .field-name-field-feature-items .overview_item_body .overview_item_thumbnail a, .page-node.node-type-gpu .field-name-field-feature-items .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child .overview_item_thumbnail a, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .page-node.node-type-gpu .field-name-field-feature-items div:last-child .overview_item_thumbnail a, .page-node.node-type-gpu .field-name-field-reviews .overview_item_body .overview_item_thumbnail a, .page-node.node-type-gpu .field-name-field-reviews .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child .overview_item_thumbnail a, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .page-node.node-type-gpu .field-name-field-reviews div:last-child .overview_item_thumbnail a {
+  position: relative;
+}
+.page-node.node-type-gpu .field-name-field-feature-items .overview_item_body .overview_item_text, .page-node.node-type-gpu .field-name-field-feature-items .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child .overview_item_text, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .page-node.node-type-gpu .field-name-field-feature-items div:last-child .overview_item_text, .page-node.node-type-gpu .field-name-field-reviews .overview_item_body .overview_item_text, .page-node.node-type-gpu .field-name-field-reviews .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child .overview_item_text, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .page-node.node-type-gpu .field-name-field-reviews div:last-child .overview_item_text {
+  min-height: 75px;
+}
+.page-node.node-type-gpu .field-name-field-feature-items .overview_item_body a, .page-node.node-type-gpu .field-name-field-feature-items .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child a, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .page-node.node-type-gpu .field-name-field-feature-items div:last-child a, .page-node.node-type-gpu .field-name-field-reviews .overview_item_body a, .page-node.node-type-gpu .field-name-field-reviews .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child a, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .page-node.node-type-gpu .field-name-field-reviews div:last-child a {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+.page-node.node-type-gpu .field-name-field-featured-games, .page-node.node-type-gpu .group_geforce_technologies.group-geforce-technologies {
+  float: left;
+  margin-top: 15px;
+  width: 671px;
+}
+.page-node.node-type-gpu .field-name-field-featured-games .overview_item, .page-node.node-type-gpu .group_geforce_technologies.group-geforce-technologies .overview_item {
+  padding: 0px;
+  margin-top: 13px;
+  text-align: center;
+}
+.page-node.node-type-gpu .field-name-field-featured-games .overview_item ul li, .page-node.node-type-gpu .group_geforce_technologies.group-geforce-technologies .overview_item ul li {
+  display: block;
+  float: left;
+  margin: 0px 0px 10px 8px;
+}
+.page-node.node-type-gpu .field-name-field-featured-games .overview_item ul li a, .page-node.node-type-gpu .group_geforce_technologies.group-geforce-technologies .overview_item ul li a {
+  position: relative;
+  display: block;
+}
+.page-node.node-type-gpu .field-name-field-featured-games .overview_item ul li a span.titleCenter1, .page-node.node-type-gpu .group_geforce_technologies.group-geforce-technologies .overview_item ul li a span.titleCenter1 {
+  position: absolute;
+  left: 0px;
+  bottom: 2px;
+  display: block;
+  width: 147px;
+  height: 30px;
+  line-height: 0.9em;
+  text-align: center;
+  padding: 0 5px;
+  font-size: 12px;
+}
+.page-node.node-type-gpu .field-name-field-featured-games .overview_item ul li a span.titleCenter2, .page-node.node-type-gpu .group_geforce_technologies.group-geforce-technologies .overview_item ul li a span.titleCenter2 {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  width: 147px;
+  height: 30px;
+}
+.page-node.node-type-gpu .field-name-field-featured-games .overview_item ul li a span.title, .page-node.node-type-gpu .group_geforce_technologies.group-geforce-technologies .overview_item ul li a span.title {
+  text-align: center;
+}
+.page-node.node-type-gpu .field-name-field-featured-games .field-name-field-technologies-ref, .page-node.node-type-gpu .group_geforce_technologies.group-geforce-technologies .field-name-field-technologies-ref {
+  margin-top: 0px;
+}
+.page-node.node-type-gpu .field-name-field-featured-games .field-name-field-technologies-ref .overview_item, .page-node.node-type-gpu .group_geforce_technologies.group-geforce-technologies .field-name-field-technologies-ref .overview_item {
+  display: inline-block;
+  float: left;
+  margin: 10px 0px 6px 8px;
+}
+.page-node.node-type-gpu .field-name-field-featured-games .field-name-field-technologies-ref .overview_item a, .page-node.node-type-gpu .group_geforce_technologies.group-geforce-technologies .field-name-field-technologies-ref .overview_item a {
+  background-image: none !important;
+}
+.page-node.node-type-gpu .block-gpu-feature, .page-node.node-type-gpu #block-views-gpus-product-family {
+  margin: 10px 10px 0 0;
+}
+.page-node.node-type-gpu .block-gpu-feature .content, .page-node.node-type-gpu #block-views-gpus-product-family .content {
+  overflow: hidden;
+}
+.page-node.node-type-gpu .block-gpu-feature .field-name-field-small-thumbnail img, .page-node.node-type-gpu #block-views-gpus-product-family .field-name-field-small-thumbnail img {
+  display: block;
+  margin: auto;
+}
+.page-node.node-type-gpu .block-gpu-feature h4, .page-node.node-type-gpu #block-views-gpus-product-family h4 {
+  color: #FFFFFF;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 10px 10px 10px 10px;
+}
+.page-node.node-type-gpu .block-gpu-feature .field-name-field-featured-image, .page-node.node-type-gpu #block-views-gpus-product-family .field-name-field-featured-image {
+  text-align: center;
+}
+
+#product_info_social {
+  height: 20px;
+  padding: 20px 0px 10px 10px;
+  width: 192px;
+}
+#product_info_social .twitter-share-button, #product_info_social .fb-like {
+  width: 80px;
+}
+#product_info_social .twitter-share-button {
+  float: left;
+}
+#product_info_social .fb-like {
+  float: right;
+}
+
+#product_info_compare {
+  border-top: 1px solid #2C2E33;
+  border-bottom: 1px solid #2C2E33;
+  padding: 10px;
+  text-align: center;
+}
+#product_info_compare a {
+  margin-top: 5px;
+}
+
+.view-display-id-product_family .view-content {
+  padding: 10px 0px;
+}
+.view-display-id-product_family .view-content .views-row span {
+  display: block;
+}
+.view-display-id-product_family .view-content .views-row span a {
+  color: white;
+  display: block;
+  padding: 5px 0px 4px 7px;
+}
+.view-display-id-product_family .view-content .views-row span a.active {
+  font-weight: bold;
+}
+
+/* GPU Performance Page */
+.field-name-ops-additional-info {
+  text-align: left;
+}
+
+.page-node-performance .group-performance h3 span {
+  color: #EEEEEE;
+  font-size: 16px;
+}
+
+.view-mode-vmepage_performance h3 {
+  color: #eee;
+}
+.view-mode-vmepage_performance #gfops-gpu-container {
+  padding-top: 5px;
+}
+.view-mode-vmepage_performance #gfops-gpu-container .gfops-ops-summary {
+  background-image: url("../images/icon_ops.png");
+  background-position: 0px;
+  background-repeat: no-repeat;
+  float: left;
+  line-height: 1.5;
+  padding-left: 70px;
+  position: relative;
+  text-align: left;
+  width: 310px;
+}
+.view-mode-vmepage_performance #gfops-gpu-container .gfops-ops-selector-wrapper {
+  float: right;
+  padding-top: 5px;
+  position: relative;
+  width: 250px;
+}
+.view-mode-vmepage_performance #gfops-gpu-container .gfops-ops-selector-wrapper input {
+  margin-top: 20px;
+}
+.view-mode-vmepage_performance #gfops-gpu-container .gfops-ops-selector {
+  padding-top: 120px;
+}
+.view-mode-vmepage_performance #gfops-gpu-container .gfops-ops-selector .field-name-field-ops-grid table tbody tr td.col_0 {
+  color: #bdbdbd;
+}
+
+/* GPU Demo Page, GPU Features Page */
+.view-mode-vmepage_product_demo .field-name-field-features-content .field-item p, .view-mode-vmepage_product_demo .field-name-field-about-section .field-item p, .view-mode-vmepage_features .field-name-field-features-content .field-item p, .view-mode-vmepage_features .field-name-field-about-section .field-item p, .view-mode-vmepage_technology .field-name-field-features-content .field-item p, .view-mode-vmepage_technology .field-name-field-about-section .field-item p {
+  color: #CCCCCC;
+  text-align: left;
+}
+.view-mode-vmepage_product_demo .field-name-field-features-content .field-item p a, .view-mode-vmepage_product_demo .field-name-field-about-section .field-item p a, .view-mode-vmepage_features .field-name-field-features-content .field-item p a, .view-mode-vmepage_features .field-name-field-about-section .field-item p a, .view-mode-vmepage_technology .field-name-field-features-content .field-item p a, .view-mode-vmepage_technology .field-name-field-about-section .field-item p a {
+  text-decoration: underline;
+}
+.view-mode-vmepage_product_demo .field-name-field-features-content .field-item p.additionalInfo, .view-mode-vmepage_product_demo .field-name-field-about-section .field-item p.additionalInfo, .view-mode-vmepage_features .field-name-field-features-content .field-item p.additionalInfo, .view-mode-vmepage_features .field-name-field-about-section .field-item p.additionalInfo, .view-mode-vmepage_technology .field-name-field-features-content .field-item p.additionalInfo, .view-mode-vmepage_technology .field-name-field-about-section .field-item p.additionalInfo {
+  color: #666666;
+  font-size: 12px;
+}
+.view-mode-vmepage_product_demo .field-name-field-features-content tbody, .view-mode-vmepage_product_demo .field-name-field-about-section tbody, .view-mode-vmepage_features .field-name-field-features-content tbody, .view-mode-vmepage_features .field-name-field-about-section tbody, .view-mode-vmepage_technology .field-name-field-features-content tbody, .view-mode-vmepage_technology .field-name-field-about-section tbody {
+  text-align: left;
+}
+.view-mode-vmepage_product_demo .field-name-field-features-content tbody td p, .view-mode-vmepage_product_demo .field-name-field-about-section tbody td p, .view-mode-vmepage_features .field-name-field-features-content tbody td p, .view-mode-vmepage_features .field-name-field-about-section tbody td p, .view-mode-vmepage_technology .field-name-field-features-content tbody td p, .view-mode-vmepage_technology .field-name-field-about-section tbody td p {
+  margin-left: 10px;
+}
+.view-mode-vmepage_product_demo .field-name-field-features-content tbody td p a, .view-mode-vmepage_product_demo .field-name-field-about-section tbody td p a, .view-mode-vmepage_features .field-name-field-features-content tbody td p a, .view-mode-vmepage_features .field-name-field-about-section tbody td p a, .view-mode-vmepage_technology .field-name-field-features-content tbody td p a, .view-mode-vmepage_technology .field-name-field-about-section tbody td p a {
+  text-decoration: underline;
+}
+.view-mode-vmepage_product_demo .field-name-field-features-content tbody:first-child, .view-mode-vmepage_product_demo .field-name-field-about-section tbody:first-child, .view-mode-vmepage_features .field-name-field-features-content tbody:first-child, .view-mode-vmepage_features .field-name-field-about-section tbody:first-child, .view-mode-vmepage_technology .field-name-field-features-content tbody:first-child, .view-mode-vmepage_technology .field-name-field-about-section tbody:first-child {
+  vertical-align: middle !important;
+}
+
+/* Hardware / gpu / videos */
+.page-node-videos #gfjwplayer_gallery_list ul {
+  list-style: none;
+  list-style-type: none;
+}
+.page-node-videos #gfjwplayer_gallery_list ul li a {
+  display: block;
+  height: 60px;
+  margin: 10px 0px;
+  overflow: hidden;
+  text-decoration: none;
+}
+.page-node-videos #gfjwplayer_gallery_list ul li a .gfjwplayer_video_thumbnail {
+  float: left;
+  margin-right: 10px;
+}
+.page-node-videos #gfjwplayer_gallery_list ul li a .gfjwplayer_video_thumbnail, .page-node-videos #gfjwplayer_gallery_list ul li a .gfjwplayer_video_title {
+  display: block;
+  float: left;
+}
+.page-node-videos #gfjwplayer_gallery_list ul li a .gfjwplayer_video_title {
+  display: block;
+  font-size: 15px !important;
+  font-weight: bold !important;
+  width: 520px;
+}
+.page-node-videos #gfjwplayer_gallery_list ul li a .gfjwplayer_video_caption {
+  color: #EEEEEE;
+  display: block;
+}
+.page-node-videos #gfjwplayer_gallery_list ul li a .gfjwplayer_video_date {
+  color: #666666;
+  display: block;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.page-node-videos #gfjwplayer_gallery_list ul li a:hover {
+  text-decoration: none;
+}
+.page-node-videos #gfjwplayer_gallery_list ul li a:hover span {
+  text-decoration: none;
+}
+
+.page-hardware-compare-buy-gpus.i18n-zh-hans .HMCitem .dynamicComparePrices .price, .page-hardware-compare-buy-gpus.i18n-zh-hant .HMCitem .dynamicComparePrices .price {
+  display: none;
+  visibility: hidden;
+}
+
+.page-node-product-images.node-type-gpu .galleryview .gallery-slide {
+  height: 378px;
+  width: 652px;
+}
+
+.page-node-images .node-technology.view-mode-vmepage_images .group_images .galleryview .gallery-slides-container .gallery-slides {
+  background-color: #181C21;
+  line-height: 415px;
+  min-height: 415px;
+  position: relative;
+  text-align: center;
+  width: 652px;
+}
+.page-node-images .node-technology.view-mode-vmepage_images .group_images .galleryview .gallery-slides-container .gallery-slides .gallery-frame .gallery-slide a {
+  display: block;
+}
+.page-node-images .node-technology.view-mode-vmepage_images .group_images .galleryview .gallery-slides-container .gallery-slides .gallery-frame .gallery-slide .panel-overlay {
+  display: none;
+  visibility: hidden;
+}
+.page-node-images .node-technology.view-mode-vmepage_images .group_images .galleryview .gallery-slides-container .gallery-slides .prev-slide, .page-node-images .node-technology.view-mode-vmepage_images .group_images .galleryview .gallery-slides-container .gallery-slides .next-slide {
+  top: -36px;
+}
+.page-node-images .node-technology.view-mode-vmepage_images .group_images .galleryview .gallery-slides-container .gallery-slides #pageNumbers {
+  top: -236px;
+}
+
+/* Product Images */
+.page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter {
+  position: relative;
+}
+.page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter .gallery-slides-container {
+  height: 430px;
+  position: relative;
+}
+.page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter .gallery-slides-container .gallery-slides .gallery-frame ul {
+  background-color: #181C21;
+  display: block;
+  height: 415px;
+  width: 652px;
+}
+.page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter .gallery-slides-container .gallery-slides .gallery-frame ul .gallery-slide a {
+  display: table-cell;
+  height: 415px;
+  vertical-align: middle;
+}
+.page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter h3 {
+  color: #FFFFFF;
+  margin-top: 15px;
+  margin-right: 0px;
+}
+.page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter .gallery-thumbs-container {
+  margin-right: 0px;
+  padding: 10px 0px;
+  text-align: center;
+  text-align: left;
+}
+.page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter .gallery-thumbs-container .gallery-thumbs {
+  display: block;
+  margin: auto;
+  /* width: 100% !important; */
+}
+.page-node-product-images.node-type-gpu .view-mode-vmepage_product_images .app_galleryformatter .gallery-thumbs-container li {
+  /*margin: 0px 3px 13px 5px;*/
+  position: relative;
+  width: auto !important;
+}
+
+/* Technology Sections */
+.node-technology {
+  /* Overview style - 3d vision surround */
+}
+.node-technology .field-name-title {
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 0px !important;
+}
+.node-technology .field-name-field-short-description {
+  color: #eee;
+  left: 19px;
+  margin-right: 20px;
+  position: absolute;
+  top: 250px;
+}
+.node-technology .field-name-field-feature-items {
+  margin-right: 0px;
+  width: 100%;
+}
+.node-technology .field-name-field-feature-items .overview_item {
+  float: left;
+  margin: 0px;
+  width: 325px;
+}
+.node-technology .field-name-field-feature-items .overview_item h3 {
+  color: #eee;
+}
+.node-technology .field-name-field-feature-items .overview_item .overview_item_body, .node-technology .field-name-field-feature-items .overview_item .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .node-technology .field-name-field-feature-items .overview_item div:last-child {
+  min-height: 90px;
+}
+.node-technology .field-name-field-feature-items .overview_item .overview_item_body .overview_item_thumbnail, .node-technology .field-name-field-feature-items .overview_item .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child .overview_item_thumbnail, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .node-technology .field-name-field-feature-items .overview_item div:last-child .overview_item_thumbnail {
+  float: left;
+}
+.node-technology .field-name-field-feature-items .overview_item .overview_item_body .overview_item_thumbnail a, .node-technology .field-name-field-feature-items .overview_item .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child .overview_item_thumbnail a, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .node-technology .field-name-field-feature-items .overview_item div:last-child .overview_item_thumbnail a {
+  bottom: auto;
+  position: relative;
+  right: auto;
+}
+.node-technology .field-name-field-feature-items .overview_item .overview_item_body .overview_item_thumbnail a img, .node-technology .field-name-field-feature-items .overview_item .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child .overview_item_thumbnail a img, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .node-technology .field-name-field-feature-items .overview_item div:last-child .overview_item_thumbnail a img {
+  max-width: 90px;
+}
+.node-technology .field-name-field-feature-items .overview_item .overview_item_body .overview_item_text, .node-technology .field-name-field-feature-items .overview_item .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child .overview_item_text, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .node-technology .field-name-field-feature-items .overview_item div:last-child .overview_item_text {
+  text-align: left;
+  padding-left: 10px;
+  display: block;
+  float: left;
+  width: 200px;
+}
+.node-technology .field-name-field-feature-items .overview_item .overview_item_body .overview_item_text h4, .node-technology .field-name-field-feature-items .overview_item .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child .overview_item_text h4, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .node-technology .field-name-field-feature-items .overview_item div:last-child .overview_item_text h4 {
+  font-size: 14px;
+  font-weight: bold;
+}
+.node-technology .field-name-field-feature-items .overview_item .overview_item_body a, .node-technology .field-name-field-feature-items .overview_item .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child a, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .node-technology .field-name-field-feature-items .overview_item div:last-child a {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+.node-technology .field-name-field-feature-items .games-pod-odd {
+  margin-left: 13px !important;
+}
+.node-technology .field-name-field-feature-items .games-pod {
+  margin-right: 0px !important;
+}
+.node-technology .field-name-field-screenshot:before {
+  content: 'Screenshots';
+  display: block;
+  position: relative;
+}
+.node-technology .field-name-field-screenshot li a {
+  display: block;
+  height: 87px;
+  position: relative;
+}
+.node-technology .field-name-field-screenshot .overview_item a:hover {
+  color: #76b900;
+}
+.node-technology .field-name-field-feature-items .overview_item_body a:hover, .node-technology .field-name-field-feature-items .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG div:last-child a:hover, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .node-technology .field-name-field-feature-items div:last-child a:hover {
+  color: #76B900;
+}
+.node-technology .field-name-field-videos .game-video-thumbnail {
+  float: left;
+  margin-right: 10px;
+}
+
+/* Technology - Whats new */
+.page-node-whats-new {
+  /* Main content */
+}
+.page-node-whats-new .view-mode-vmepage_whats_new .views-row {
+  margin-bottom: 10px;
+  min-height: 62px;
+  padding-right: 0px;
+  /*
+  background-image: url("../images/main_rightNav_capsule_background.png");
+  
+  &:hover{
+    background-image: url("../images/main_rightNav_capsule_background_overlay.png");
+  }
+  // */
+}
+.page-node-whats-new .view-mode-vmepage_whats_new .views-row .group-left {
+  width: 100px;
+  min-height: 70px;
+}
+.page-node-whats-new .view-mode-vmepage_whats_new .views-row .group-left a {
+  display: block;
+  line-height: 70px;
+  height: 70px;
+  vertical-align: middle;
+}
+.page-node-whats-new .view-mode-vmepage_whats_new .views-row .group-left img {
+  height: 62px;
+  width: 93px;
+}
+.page-node-whats-new .view-mode-vmepage_whats_new .views-row .group-right {
+  float: none;
+  position: relative;
+  width: 635px;
+}
+.page-node-whats-new .view-mode-vmepage_whats_new .views-row .group-right .field-name-title {
+  top: 0px;
+}
+.page-node-whats-new .view-mode-vmepage_whats_new .views-row .group-right .field-name-field-short-description {
+  position: relative;
+  left: 0px;
+  top: 4px;
+  width: 520px;
+}
+
+.styled-rows2 .group-left, .page-node-games.node-type-technology .view-mode-vmepage_games .group-left, .page-node-tech-demos .view-technology-references .group-left, .page-node-applications.node-type-technology .view-id-technology_references .group-left {
+  margin-left: 5px;
+  margin-top: 12px;
+  width: 105px;
+}
+.styled-rows2 .group-right, .page-node-games.node-type-technology .view-mode-vmepage_games .group-right, .page-node-tech-demos .view-technology-references .group-right, .page-node-applications.node-type-technology .view-id-technology_references .group-right {
+  margin-top: 12px;
+  width: 510px;
+}
+.styled-rows2 .group-right .field-name-title, .page-node-games.node-type-technology .view-mode-vmepage_games .group-right .field-name-title, .page-node-tech-demos .view-technology-references .group-right .field-name-title, .page-node-applications.node-type-technology .view-id-technology_references .group-right .field-name-title {
+  margin-top: 20px;
+}
+
+.styled-rows3, .view-id-notebooks .views-row {
+  padding-top: 4px;
+}
+
+.field-name-field-feature-items .games-pod-odd {
+  margin-right: 0px !important;
+}
+
+/* technology / ... / technology */
+.page-node-technology .group_technology .field-name-field-about-section {
+  text-align: left;
+}
+.page-node-technology .group_technology .field-name-field-about-section ul {
+  margin: 10px 0;
+}
+.page-node-technology .group_technology .field-name-field-about-section h3 {
+  margin-top: 10px;
+}
+
+/* hardware / technology / ... / games */
+/* hardware / technology / ... / tech demos */
+.page-node-tech-demos .view-id-gpu_references .view-content {
+  overflow: hidden;
+}
+.page-node-tech-demos .view-id-gpu_references .view-content .views-row .view-mode-teaser {
+  padding-top: 13px;
+}
+.page-node-tech-demos .view-id-gpu_references .view-content .views-row .group-left {
+  width: 110px;
+}
+.page-node-tech-demos .view-id-gpu_references .view-content .views-row .group-right {
+  width: 515px;
+}
+.page-node-tech-demos .view-id-gpu_references .view-content .views-row .group-right .field-item div a {
+  text-decoration: none;
+}
+
+.node-type-technology .view-technology-references .view-content {
+  overflow: hidden;
+  padding-bottom: 40px;
+}
+
+/* hardware / technology / ... / Reviews */
+.field-name-field-reviews-section ul {
+  padding: 10px 40px;
+}
+.field-name-field-reviews-section a {
+  text-decoration: underline;
+}
+
+.page-node-reviews.node-type-gpu .view-mode-vmepage_reviews .group-reviews .field-collection-container, .page-node-reviews.node-type-technology .view-mode-vmepage_reviews .group-reviews .field-collection-container {
+  padding: 0px;
+}
+.page-node-reviews.node-type-gpu .view-mode-vmepage_reviews .group-reviews .field-collection-container .field-collection-view, .page-node-reviews.node-type-technology .view-mode-vmepage_reviews .group-reviews .field-collection-container .field-collection-view {
+  margin: 0px;
+  border-bottom: 1px solid #2D313A;
+  padding: 5px;
+}
+.page-node-reviews.node-type-gpu .view-mode-vmepage_reviews .group-reviews .field-collection-container .field-collection-view .field-name-field-review-url, .page-node-reviews.node-type-technology .view-mode-vmepage_reviews .group-reviews .field-collection-container .field-collection-view .field-name-field-review-url {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 5px 0 0 10px;
+  text-align: left;
+}
+.page-node-reviews.node-type-gpu .view-mode-vmepage_reviews .group-reviews .field-collection-container .field-collection-view .field-name-field-review-desc, .page-node-reviews.node-type-technology .view-mode-vmepage_reviews .group-reviews .field-collection-container .field-collection-view .field-name-field-review-desc {
+  padding: 0px 10px;
+}
+.page-node-reviews.node-type-gpu .view-mode-vmepage_reviews .group-reviews .field-collection-container .field-collection-view .field-name-field-review-desc tbody tr td, .page-node-reviews.node-type-technology .view-mode-vmepage_reviews .group-reviews .field-collection-container .field-collection-view .field-name-field-review-desc tbody tr td {
+  padding: 10px 0px;
+  vertical-align: middle;
+}
+.page-node-reviews.node-type-gpu .view-mode-vmepage_reviews .group-reviews .field-collection-container .field-collection-view .field-name-field-review-desc tbody tr td p, .page-node-reviews.node-type-technology .view-mode-vmepage_reviews .group-reviews .field-collection-container .field-collection-view .field-name-field-review-desc tbody tr td p {
+  text-align: left;
+}
+.page-node-reviews.node-type-gpu .view-mode-vmepage_reviews .group-reviews .field-collection-container .field-collection-view .field-name-field-review-desc .field-item, .page-node-reviews.node-type-technology .view-mode-vmepage_reviews .group-reviews .field-collection-container .field-collection-view .field-name-field-review-desc .field-item {
+  text-align: left;
+}
+
+/* hardware / gpus / gpu / architecture */
+.page-node-architecture .group-architecture .field-name-field-architecture-content {
+  text-align: left;
+}
+.page-node-architecture .group-architecture .field-name-field-architecture-content h3 {
+  padding: 10px 0px 15px 0px;
+}
+
+/* hardware / technology / ... / applications */
+/* hardware / technology / ... / ... */
+/* hardware / technology / ... / supported gpus */
+.page-node-supported-gpus .view-id-technology_references .views-row .group-middle, .page-node-supported-gpus .view-id-technology_references .views-row .group-right {
+  margin-top: 10px;
+}
+.page-node-supported-gpus .view-id-technology_references .views-row .group-left {
+  width: 120px;
+}
+.page-node-supported-gpus .view-id-technology_references .views-row .group-left .field-name-field-small-thumbnail {
+  margin-top: 4px;
+}
+.page-node-supported-gpus .view-id-technology_references .views-row .group-left .field-name-field-small-thumbnail a {
+  display: table-cell;
+  vertical-align: middle;
+  height: 79px;
+}
+.page-node-supported-gpus .view-id-technology_references .views-row .group-left .field-name-field-small-thumbnail a img {
+  margin: 0px auto !important;
+}
+.page-node-supported-gpus .view-id-technology_references .views-row .group-middle .field-name-field-short-description {
+  position: relative;
+  top: auto;
+  left: auto;
+  width: 400px;
+}
+.page-node-supported-gpus .view-id-technology_references .views-row .group-right {
+  width: 120px;
+  margin-top: 30px;
+}
+.page-node-supported-gpus .view-id-technology_references .views-row .group-right a:hover {
+  text-decoration: none;
+}
+.page-node-supported-gpus .view-id-technology_references .views-row .field-name-field-buy-now-link div div a, .page-node-supported-gpus .view-id-technology_references .views-row .field-name-node-link div div a, .page-node-supported-gpus .view-id-technology_references .views-row .views-row .field-name-node-link div div a {
+  padding: 5px 15px;
+  width: 67px;
+}
+
+/* Technology Overrides */
+.node-type-technology #content-area #content .field-name-field-featured-image {
+  border-bottom: none;
+}
+.node-type-technology #content-area #content .node-technology .group_overview h2 span {
+  font-size: 16px;
+}
+.node-type-technology #content-area #content .node-technology .field-name-field-feature-items .overview_item {
+  margin: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 330px;
+}
+.node-type-technology #content-area #content .node-technology .field-name-field-feature-items .overview_item .overview_item_title {
+  color: #FFFFFF;
+  font-size: 16px;
+  margin-top: 15px;
+}
+
+/* hardware / (product category) / (product name) / specifications */
+.page-node-specifications {
+  /*
+  .field-name-specifications-title {
+    @extend %sidebar-info-cap;
+    padding-left: 0px;
+    text-align: left;
+  }
+  */
+  /*
+  .field-name-field-alternate-spec-content {
+    .right {
+      color: #FFFFFF;
+      float: right;
+      text-align: left;
+      width: 400px;
+    }
+    .row {
+      padding-left: 10px;
+    }
+    .title {
+      color: #fff;
+      padding: 20px 0px 5px 10px;
+    }
+    .additionalInfo {
+      color: #666666;
+      padding-top: 20px;
+      a {
+        text-decoration: underline;
+      }
+      p {
+        font-size: 12px;
+        text-align: left;
+      }
+    }
+  }
+  // */
+}
+.page-node-specifications .group-specifications {
+    /*
+
+    // */
+}
+.page-node-specifications .group-specifications h2 span {
+  font-size: 16px;
+  font-weight: bold;
+}
+.page-node-specifications .group-specifications div {
+  color: #BDBDBD;
+  font-weight: normal;
+  text-align: left;
+}
+.page-node-specifications .group-specifications .field-name-gpu-disclaimer-text .field-item {
+  color: #EEEEEE !important;
+  font-weight: normal !important;
+  padding-left: 10px !important;
+}
+.page-node-specifications .group-specifications .group_specifications_main {
+  overflow: hidden;
+  padding: 10px;
+}
+.page-node-specifications .group-specifications .group_specifications_main div.field-group-format {
+  border-left: 1px solid #000000;
+  border-right: 1px solid #000000;
+}
+.page-node-specifications .group-specifications .group_specifications_main div.field-group-format:first-child {
+  border-top: 1px solid #000000;
+  -webkit-border-radius: 4px 4px 0px 0px;
+  -moz-border-radius: 4px 4px 0px 0px;
+  -ms-border-radius: 4px 4px 0px 0px;
+  -o-border-radius: 4px 4px 0px 0px;
+  border-radius: 4px 4px 0px 0px;
+}
+.page-node-specifications .group-specifications .group_specifications_main div.field-group-format:last-child {
+  border-bottom: 1px solid #000000;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  -webkit-border-radius: 0px 0px 4px 4px;
+  -moz-border-radius: 0px 0px 4px 4px;
+  -ms-border-radius: 0px 0px 4px 4px;
+  -o-border-radius: 0px 0px 4px 4px;
+  border-radius: 0px 0px 4px 4px;
+}
+.page-node-specifications .group-specifications .field-name-field-alternate-spec-content .coloredTable {
+  -webkit-border-radius: 4px 4px 4px 4px;
+  -moz-border-radius: 4px 4px 4px 4px;
+  -ms-border-radius: 4px 4px 4px 4px;
+  -o-border-radius: 4px 4px 4px 4px;
+  border-radius: 4px 4px 4px 4px;
+  padding: 20px 0px;
+}
+.page-node-specifications .group-specifications .field-name-field-alternate-spec-content .coloredTable .row {
+  padding: 3px 10px 3px 14px;
+}
+.page-node-specifications .group-specifications .field-name-field-alternate-spec-content .coloredTable .row .right {
+  padding: 0px;
+  width: 390px;
+}
+.page-node-specifications .group-specifications .field-name-field-alternate-spec-content .coloredTable .row:nth-child(even) {
+  background-color: #212528;
+}
+.page-node-specifications .group-specifications .field-name-field-alternate-spec-content .coloredTable .title {
+  color: #eee;
+  padding: 3px 30px 3px 14px;
+}
+.page-node-specifications .group-specifications .field-name-field-alternate-spec-content .coloredTable .gap {
+  height: 15px;
+}
+.page-node-specifications .group-specifications .field-name-field-alternate-spec-content .additionalInfo {
+  color: #666;
+}
+.page-node-specifications .bgDarkGrey {
+  background-color: #171b1e;
+}
+.page-node-specifications .bgLightGrey {
+  background-color: #232629;
+}
+.page-node-specifications .coloredTable {
+  background-color: #171b1e;
+  border: 1px solid #000000;
+  min-height: 25px;
+  text-align: left;
+  -webkit-border-radius: 0px 0px 4px 4px;
+  -moz-border-radius: 0px 0px 4px 4px;
+  -ms-border-radius: 0px 0px 4px 4px;
+  -o-border-radius: 0px 0px 4px 4px;
+  border-radius: 0px 0px 4px 4px;
+}
+.page-node-specifications .coloredTable .title {
+  font-size: 14px;
+  font-weight: bold;
+}
+.page-node-specifications .coloredTable .row {
+  padding: 3px 0;
+  font-size: 12px;
+}
+.page-node-specifications .group_specifications .field .field-label {
+  font-weight: normal;
+  padding: 3px 0px 3px 10px;
+}
+.page-node-specifications .group_specifications .field .field-item {
+  color: #FFFFFF;
+  font-weight: bold;
+  padding: 3px 0px;
+}
+.page-node-specifications .group_specifications h3 {
+  background-color: #171b1e;
+  color: #FFFFFF;
+  padding: 20px 0px 5px 10px;
+}
+.page-node-specifications .field-name-field-footnotes .field-item {
+  color: #666 !important;
+  font-size: 12px !important;
+  font-weight: normal !important;
+  margin-bottom: 1em !important;
+}
+.page-node-specifications .field-name-field-footnotes .field-item a {
+  text-decoration: underline;
+}
+
+.field-name-field-pdf-of-supported-psus .field-item {
+  text-align: right !important;
+}
+.field-name-field-pdf-of-supported-psus .field-item a {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.field-name-field-pdf-of-supported-psus .field-item a:before {
+  content: "";
+  display: inline-block;
+  margin: 0 5px;
+  position: relative;
+  top: 5px;
+}
+
+.field-name-field-alternate-spec-content .right {
+  color: #FFFFFF;
+  float: right;
+  text-align: left;
+  width: 400px;
+}
+.field-name-field-alternate-spec-content .row {
+  padding-left: 10px;
+}
+.field-name-field-alternate-spec-content .title {
+  color: #fff;
+  padding: 20px 0px 5px 10px;
+}
+.field-name-field-alternate-spec-content .additionalInfo {
+  color: #666666;
+  padding-top: 20px;
+}
+.field-name-field-alternate-spec-content .additionalInfo a {
+  text-decoration: underline;
+}
+.field-name-field-alternate-spec-content .additionalInfo p {
+  font-size: 12px;
+  text-align: left;
+}
+
+.field-name-specifications-title {
+  padding-left: 0px;
+  text-align: left;
+}
+
+/* TECHNOLOGY > FAQ */
+.view-mode-vmepage_faq .group-faq .field-name-field-faq-section {
+  text-align: left;
+}
+.view-mode-vmepage_faq .group-faq .field-name-field-faq-section ul {
+  margin: 15px 0px 15px 35px;
+}
+.view-mode-vmepage_faq .group-faq .field-name-field-faq-section ul li {
+  list-style-type: disc;
+}
+.view-mode-vmepage_faq .group-faq .field-name-field-faq-section ul li a {
+  text-decoration: underline;
+}
+.view-mode-vmepage_faq .group-faq .field-name-field-faq-section .field-item p a {
+  text-decoration: underline;
+}
+
+/* Technology > System Requirements */
+.page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG {
+  width: 671px;
+}
+.page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .coloredTable .nocolor {
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  border-radius: 6px;
+  background-color: #161a1d;
+  padding: 10px 0;
+}
+.page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .coloredTable .testtarget {
+  -webkit-border-radius: 6px 6px 6px 6px;
+  -moz-border-radius: 6px 6px 6px 6px;
+  -ms-border-radius: 6px 6px 6px 6px;
+  -o-border-radius: 6px 6px 6px 6px;
+  border-radius: 6px 6px 6px 6px;
+  background-color: #161a1d;
+  border: 1px solid #76B900;
+}
+.page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .coloredTable .testtarget .nocolor td {
+  padding: 15px 0px 10px 25px;
+}
+.page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .coloredTable .testtarget .nocolor a.nvFrame-selectBox, .page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .coloredTable .testtarget .nocolor p {
+  display: inline-block;
+}
+.page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .coloredTable .testtarget .nocolor a.nvFrame-selectBox {
+  margin-right: 15px;
+}
+.page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .coloredTable .testtarget .nocolor p {
+  margin: 0px;
+  height: 5px;
+  width: 25px;
+}
+.page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG .coloredTable .testtarget .nocolor input[type="button"] {
+  display: none;
+}
+.page-node-system-requirements.node-type-technology .field-name-field-system-requirements .newPanelBG #MainInputButton {
+  float: right;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+.block.block-system .content #rigBrowserObject {
+  height: 1720px !important;
+}
+
+/* Dropdown Menu styles */
+#edit-field-maximum-power-value {
+  width: 90px;
+}
+
+#edit-field-modular-value {
+  width: 90px;
+}
+
+#edit-field-gpu-series-value {
+  width: 140px;
+}
+
+#edit-field-gpu-target-id {
+  width: 145px;
+}
+
+#edit-field-manufacturer-value {
+  width: 120px;
+}
+
+#edit-field-socket-type-value {
+  width: 100px;
+}
+
+#edit-field-sli-support-value {
+  width: 100px;
+}
+
+#edit-field-sli-ready-or-certified-value {
+  width: 50px;
+}
+
+.node-type-gpu .field-name-field-left-nav-items .field-item.odd {
+  border-top: 1px solid #2c2e33;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+/* Hardware / Notebooks (only) Filter Search Box */
+.page-hardware-notebooks .view-filters .form-type-textfield input#edit-keys {
+  width: 100px;
+}
+
+/* HELP ME CHOOSE */
+.HMCitem {
+  margin-top: 13px;
+  position: relative;
+  padding-top: 55px;
+}
+
+.HMCitem h5.name {
+  position: absolute;
+  display: inline;
+  width: 150px;
+  top: 10px;
+  left: 10px;
+}
+
+.HMCitem .relativePerf {
+  position: absolute;
+  width: 180px;
+  display: block;
+  height: 12px;
+  background-repeat: repeat-x;
+  background-image: url('../images/perfomanceBar.png?1372939059');
+  top: 13px;
+  left: 165px;
+}
+
+.HMCitem .relativePerf .overlay {
+  width: 1px;
+  display: block;
+  height: 12px;
+  background-repeat: repeat-x;
+  background-image: url('../images/perfomanceBar_green.png?1372939059');
+}
+
+.HMCitem .quickSpecs {
+  position: absolute;
+  width: 180px;
+  display: block;
+  height: 18px;
+  font-size: 11px;
+  line-height: 15px;
+  top: 31px;
+  left: 165px;
+  color: #777;
+  overflow: hidden;
+}
+
+.HMCitem .left {
+  position: relative;
+  float: left;
+  padding-right: 10px;
+}
+
+.HMCitem .right {
+  position: relative;
+  float: right;
+}
+
+.HMCitem .price {
+  position: absolute;
+  width: 105px;
+  left: 360px;
+  top: 10px;
+  text-align: center;
+  font-size: 12px;
+}
+
+.HMCitem .comparePrices {
+  position: absolute;
+  width: 172px;
+  left: 480px;
+  top: 5px;
+}
+
+.HMCitem .toggleSpecs {
+  position: absolute;
+  left: 10px;
+  top: 33px;
+  height: 11px;
+  font-size: 11px;
+  line-height: 11px;
+  color: #777;
+  cursor: pointer;
+  width: 130px;
+}
+
+.HMCitem .toggleSpecs:hover {
+  color: #ccc;
+}
+
+.HMCitem .toggleSpecs img {
+  padding-right: 5px;
+  height: 10px;
+  width: 10px;
+}
+
+.HMCitem .toggleSpecs .hide {
+  display: none;
+}
+
+.HMCitem .specsDetails {
+  position: relative;
+  width: 648px;
+  left: -2px;
+  background-color: #1b1e21;
+  display: block;
+  background-image: url('../images/HMC_specs_background.png?1372939059');
+  background-repeat: repeat-x;
+  padding: 10px 12px 10px 12px;
+  display: none;
+  margin-left: 2px;
+}
+
+.HMCitem .specsDetails .column {
+  float: left;
+  margin-right: 10px;
+  padding-right: 10px;
+  background-image: imageurl("hr_vertical.png");
+  background-position: right;
+  background-repeat: repeat-y;
+  font-size: 11px;
+  line-height: 20px;
+  color: #777;
+}
+
+.HMCitem .specsDetails .column .title {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+.HMCitem .specsDetails .column .link {
+  text-align: right;
+  text-decoration: underline;
+}
+
+.HMCitem .specsDetails .column .row {
+  clear: both;
+  height: 20px;
+}
+
+.HMCitem .specsDetails .column .left abbr {
+  color: #999;
+}
+
+.HMCitem .specsDetails .column .right {
+  text-align: right;
+  float: none;
+  z-index: 0;
+  height: 20px;
+  overflow: hidden;
+}
+
+.HMCitem .specsDetails .column .left {
+  color: #999;
+  z-index: 1;
+}
+
+.HMCitem .specsDetails .row .left {
+  border-bottom: 1px dotted;
+  color: #999;
+  z-index: 1;
+  padding-right: 0px;
+}
+
+.HMCitem .specsDetails .first {
+  width: 195px;
+}
+
+.HMCitem .specsDetails .second {
+  width: 199px;
+}
+
+.HMCitem .specsDetails .third {
+  width: 214px;
+  margin-right: 0px;
+  padding-right: 0px;
+  background-image: none;
+}
+
+.HMCitem .specsDetails .techLink {
+  color: #777777;
+  font-size: 11px;
+  line-height: 20px;
+  text-decoration: none;
+}
+
+.HMCitem .specsDetails .techLink:hover {
+  color: #76b900;
+}
+
+.HMCitem .hr {
+  border-bottom: 1px solid #393d40;
+  margin-top: 0px !important;
+}
+
+.HMCitem .dynamicComparePrices a img.comparePrices {
+  max-height: 30px;
+}
+
+.page-hardware-compare-buy-gpus .drivers-page .contentMiddle,
+.page-hardware-3d-vision-kits .drivers-page .contentMiddle,
+.page-hardware-3d-monitors .drivers-page .contentMiddle {
+  padding: 10px 0 30px 0;
+  text-align: left;
+}
+.page-hardware-compare-buy-gpus .drivers-page .contentMiddle p,
+.page-hardware-3d-vision-kits .drivers-page .contentMiddle p,
+.page-hardware-3d-monitors .drivers-page .contentMiddle p {
+  margin-left: 10px;
+}
+
+/* Sidebar Widgets */
+#product_info_technologies {
+  padding: 10px 10px 10px 30px;
+}
+#product_info_technologies ul {
+  list-style: none;
+  position: relative;
+}
+#product_info_technologies ul li {
+  font-size: 10px;
+  margin: 5px;
+}
+#product_info_technologies ul li:before {
+  /* Need green checkmark image here */
+  content: " ";
+  display: block;
+  height: 12px;
+  margin-left: -17px;
+  margin-top: 1px;
+  position: absolute;
+  width: 17px;
+  z-index: 9;
+}
+#product_info_technologies ul li span a {
+  font-size: 10px;
+  position: absolute;
+  right: 5px;
+}
+
+.page-node-buy-online .node-gpu h3 {
+  display: none;
+  visibility: hidden;
+}
+.page-node-buy-online .node-gpu .content h2 a {
+  color: white;
+}
+.page-node-buy-online .node-gpu .content h2 a:hover {
+  text-decoration: none;
+  cursor: default;
+}
+.page-node-buy-online .node-gpu #dynamicMoreInfoContent {
+  padding: 10px;
+}
+.page-node-buy-online .node-gpu #dynamicMoreInfoContent .CIitem {
+  padding: 0px !important;
+}
+.page-node-buy-online .node-gpu #dynamicMoreInfoContent .CIitem .CIcontent {
+  text-align: left;
+}
+.page-node-buy-online .node-gpu #dynamicMoreInfoContent .CIitem .CIbutton span {
+  width: 100px;
+}
+.page-node-buy-online .node-gpu #dynamicMoreInfoContent .CIitem .CIimages img {
+  height: 80px;
+}
+.page-node-buy-online .node-gpu #dynamicMoreInfoContent .hr {
+  border-bottom: 1px solid #393d40;
+  display: block;
+  height: 100px;
+  margin: 0px -10px;
+}
+.page-node-buy-online .node-gpu .contentMiddle {
+  text-align: left;
+  padding: 0;
+}
+.page-node-buy-online .node-gpu .contentMiddle #dynamicBuyNowContent .CIpagination {
+  margin-top: 10px;
+}
+.page-node-buy-online .node-gpu .contentMiddle #dynamicBuyNowContent .clear {
+  display: none;
+  visibility: hidden;
+}
+.page-node-buy-online .node-gpu .contentMiddle #dynamicBuyNowContent .CIitem .CIimages {
+  margin: 0px;
+}
+.page-node-buy-online .node-gpu .contentMiddle #dynamicBuyNowContent .CIitem .CIcontent {
+  margin: 0 0 0 10px !important;
+}
+.page-node-buy-online .node-gpu .contentMiddle #dynamicBuyNowContent .CIitem .CIbuyStuff {
+  width: 150px;
+}
+.page-node-buy-online .node-gpu .contentMiddle #dynamicBuyNowContent .CIitem .hr {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.page-node-buy-online .node-gpu .CIitem {
+  /*@extend %divider-bottom;*/
+  height: 110px;
+  clear: both;
+  position: relative;
+  display: none;
+  padding: 0 14px;
+}
+.page-node-buy-online .node-gpu .CIimages {
+  position: relative;
+  width: 148px;
+  height: 87px;
+  background-color: white;
+  text-align: center;
+  float: left;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+.page-node-buy-online .node-gpu .CIbigImage {
+  display: none;
+}
+.page-node-buy-online .node-gpu .CIcontent {
+  position: relative;
+  margin-left: 20px;
+  width: 320px;
+  float: left;
+  text-transform: uppercase;
+  font-weight: bold;
+  height: 12px;
+  color: #CCC;
+  cursor: pointer;
+}
+.page-node-buy-online .node-gpu .CIbuyStuff {
+  margin-top: 30px;
+  position: relative;
+  width: 150px;
+  text-align: center;
+  float: right;
+  cursor: default;
+}
+.page-node-buy-online .node-gpu .CImanufacturer {
+  font-size: 10px;
+  color: #666;
+}
+
+#supportedTechnologies {
+  font-size: 11px;
+  font-weight: bold;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.field-name-vmepage-buy-online {
+  border-top: 1px solid #353638;
+  margin-top: 5px;
+  padding-top: 15px;
+}
+
+.page-hardware-compare-buy-gpus .content h2 {
+  font-weight: normal !important;
+}
+.page-hardware-compare-buy-gpus .content .contentMiddle {
+  padding: 10px 0;
+}
+
+#dynamicBuyNowContent .productList, #dynamicMoreInfoContent .productList {
+  overflow: hidden;
+}
+#dynamicBuyNowContent .CIpagination, #dynamicBuyNowContent .CIpaginationBottom, #dynamicMoreInfoContent .CIpagination, #dynamicMoreInfoContent .CIpaginationBottom {
+  float: right;
+  max-width: 100px;
+}
+#dynamicBuyNowContent .CIpagination img, #dynamicBuyNowContent .CIpaginationBottom img, #dynamicMoreInfoContent .CIpagination img, #dynamicMoreInfoContent .CIpaginationBottom img {
+  padding: 0 10px;
+}
+#dynamicBuyNowContent .CIpaginationBottom, #dynamicMoreInfoContent .CIpaginationBottom {
+  height: 20px;
+  margin-top: 10px;
+}
+#dynamicBuyNowContent .CIitem, #dynamicMoreInfoContent .CIitem {
+  height: 110px;
+  margin-top: 10px;
+}
+#dynamicBuyNowContent .CIitem .CIimages, #dynamicMoreInfoContent .CIitem .CIimages {
+  background-color: #FFF;
+  float: left;
+  height: 87px;
+  margin: 10px;
+  position: relative;
+  width: 148px;
+  text-align: center;
+  overflow: hidden;
+}
+#dynamicBuyNowContent .CIitem .CIimages .CIthumbnail, #dynamicMoreInfoContent .CIitem .CIimages .CIthumbnail {
+  height: 80px;
+}
+#dynamicBuyNowContent .CIitem .CIimages .CIoverlay, #dynamicMoreInfoContent .CIitem .CIimages .CIoverlay {
+  background-image: url("../images/image-styles-overlays/150x87-overlay.png");
+  cursor: pointer;
+  height: 87px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 148px;
+}
+#dynamicBuyNowContent .CIitem .CIbigImage, #dynamicMoreInfoContent .CIitem .CIbigImage {
+  display: none;
+  visibility: hidden;
+}
+#dynamicBuyNowContent .CIitem a, #dynamicMoreInfoContent .CIitem a {
+  color: #ccc;
+  position: relative;
+}
+#dynamicBuyNowContent .CIitem a:hover, #dynamicMoreInfoContent .CIitem a:hover {
+  color: #76b900;
+}
+#dynamicBuyNowContent .CIitem .CIcontent, #dynamicMoreInfoContent .CIitem .CIcontent {
+  float: left;
+  margin: 10px 0 0 10px;
+  text-align: left;
+  width: 320px;
+}
+#dynamicBuyNowContent .CIitem .CIcontent .CImanufacturer, #dynamicMoreInfoContent .CIitem .CIcontent .CImanufacturer {
+  color: #666;
+  font-size: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+#dynamicBuyNowContent .CIitem .CIcontent .CItitle, #dynamicMoreInfoContent .CIitem .CIcontent .CItitle {
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+#dynamicBuyNowContent .CIitem .CIcontent .CItitle:hover, #dynamicMoreInfoContent .CIitem .CIcontent .CItitle:hover {
+  color: #76b900;
+}
+#dynamicBuyNowContent .CIitem .CIbuyStuff, #dynamicMoreInfoContent .CIitem .CIbuyStuff {
+  float: right;
+  margin-top: 20px;
+  width: 170px;
+}
+#dynamicBuyNowContent .CIitem .CIbuyStuff .CIprice, #dynamicMoreInfoContent .CIitem .CIbuyStuff .CIprice {
+  color: #ccc;
+  display: block;
+  font-size: 14px;
+  font-weight: bold;
+  height: 18px;
+  margin-right: 20px;
+  text-align: center;
+}
+#dynamicBuyNowContent .CIitem .CIbuyStuff .CIetailer, #dynamicMoreInfoContent .CIitem .CIbuyStuff .CIetailer {
+  color: #777;
+  display: block;
+  font-size: 11px;
+  padding-bottom: 5px;
+  margin-right: 20px;
+  text-align: center;
+}
+#dynamicBuyNowContent .CIitem .hr, #dynamicMoreInfoContent .CIitem .hr {
+  border-bottom: 1px solid #393d40;
+  display: block;
+  height: 105px;
+}
+
+/* Left Nav on GPU Pages */
+#buyNowLoader {
+  text-align: center;
+}
+
+/*
+.node-technology .group-system-requirements {
+  h2 {
+    @extend %content-info-cap;
+  }
+  .field-name-field-system-requirements {
+    @extend %sidebar-info-content;
+    text-align: left;
+    li {
+      color: #ccc;
+      list-style-type: disc;
+      margin-left: 40px;
+    }
+    p {
+      padding: 10px 0px;
+    }
+    a {
+      padding: 10px 0px;
+      text-decoration: underline;
+    }
+    .horizontalRule {
+      margin: 0px -10px 20px;
+    }
+  }
+}
+*/
+.node-technology .field-name-field-about-section li {
+  list-style-type: disc;
+  margin-left: 40px;
+}
+
+.field-name-field-system-requirements ul {
+  margin-bottom: 10px;
+}
+.field-name-field-system-requirements ul li {
+  list-style-type: disc;
+  margin-left: 40px;
+}
+.field-name-field-system-requirements a {
+  text-decoration: underline;
+}
+.field-name-field-system-requirements .horizontalRule {
+  margin-bottom: 12px;
+}
+
+.page-node-videos.node-type-gpu #gfjwplayer_gallery_wrapper {
+  padding-bottom: 50px;
+}
+
+.panel_divider {
+  margin-bottom: 15px;
+}
+
+.page-node-system-requirements.node-type-technology .view-mode-vmepage_system_requirements .field-name-field-system-requirements ul#portfolio li {
+  list-style-type: none !important;
+  margin-left: 0px !important;
+}
+
+.view-id-technologies .field-name-title {
+  position: relative;
+  text-align: center;
+  top: -25px;
+}
+
+.page-node-description #content .field-item img {
+  background-color: #111111;
+  border-left: 1px solid #2C2E33;
+  border-right: 1px solid  #2C2E33;
+  border-bottom: 1px solid #2C2E33;
+}
+
+.page-node-description #content .field-name-field-description-content .field-item div {
+  border-left: 1px solid #2C2E33;
+  border-right: 1px solid  #2C2E33;
+  border-bottom: 1px solid #2C2E33;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 14px;
+}
+
+.additionalInfo {
+  color: #666666;
+  font-size: 12px;
+}

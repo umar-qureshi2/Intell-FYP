@@ -1,0 +1,1148 @@
+/* Games Styles : Author: Andrew Young - VML */
+.small-icons-sprite, .small-icons-button_feedback_bubble, .small-icons-button_newsletter_bubble, .small-icons-footer_scroll_up_arrow, .small-icons-icon-comment-bubble, .small-icons-icon-tag, .small-icons-icon_Manual_Driver_Search, .small-icons-icon_RSS, .small-icons-icon_adobe_pdf, .small-icons-main_leftNav_contentBox_check_yes, .view-id-games .field-name-field-technologies-ref .field-item a:before, .small-icons-main_leftNav_contentBox_check_yes2, #info_technologies li:before, .small-icons-refresh {
+  background: url('../images/small-icons-s785a04d8fc.png') no-repeat;
+}
+
+.small-icons-button_feedback_bubble {
+  background-position: 0 -266px;
+  height: 14px;
+  width: 14px;
+}
+
+.small-icons-button_newsletter_bubble {
+  background-position: 0 -130px;
+  height: 15px;
+  width: 23px;
+}
+
+.small-icons-footer_scroll_up_arrow {
+  background-position: 0 -50px;
+  height: 30px;
+  width: 30px;
+}
+
+.small-icons-icon-comment-bubble {
+  background-position: 0 -145px;
+  height: 31px;
+  width: 31px;
+}
+
+.small-icons-icon-tag {
+  background-position: 0 -223px;
+  height: 31px;
+  width: 31px;
+}
+
+.small-icons-icon_Manual_Driver_Search {
+  background-position: 0 0;
+  height: 50px;
+  width: 50px;
+}
+
+.small-icons-icon_RSS {
+  background-position: 0 -80px;
+  height: 50px;
+  width: 50px;
+}
+
+.small-icons-icon_adobe_pdf {
+  background-position: 0 -194px;
+  height: 21px;
+  width: 20px;
+}
+
+.small-icons-main_leftNav_contentBox_check_yes, .view-id-games .field-name-field-technologies-ref .field-item a:before {
+  background-position: 0 -215px;
+  height: 8px;
+  width: 11px;
+}
+
+.small-icons-main_leftNav_contentBox_check_yes2, #info_technologies li:before {
+  background-position: 0 -254px;
+  height: 12px;
+  width: 17px;
+}
+
+.small-icons-refresh {
+  background-position: 0 -176px;
+  height: 18px;
+  width: 18px;
+}
+
+.icons-paging-sprite, .icons-paging-button_page_backEnd_off, .icons-paging-button_page_backEnd_on, .icons-paging-button_page_back_grey_on, .icons-paging-button_page_back_off, .app_galleryformatter .prev-slide.element-disabled, .icons-paging-button_page_back_on, .app_galleryformatter .prev-slide, .icons-paging-button_page_forwardEnd_off, .icons-paging-button_page_forwardEnd_on, .icons-paging-button_page_forward_grey_on, .icons-paging-button_page_forward_off, .app_galleryformatter .next-slide.element-disabled, .icons-paging-button_page_forward_on, .app_galleryformatter .next-slide {
+  background: url('../images/icons-paging-s67eda87a48.png') no-repeat;
+}
+
+.icons-paging-button_page_backEnd_off {
+  background-position: 0 -42px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_backEnd_on {
+  background-position: 0 -28px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_back_grey_on {
+  background-position: 0 0;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_back_off, .app_galleryformatter .prev-slide.element-disabled {
+  background-position: 0 -126px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_back_on, .app_galleryformatter .prev-slide {
+  background-position: 0 -84px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_forwardEnd_off {
+  background-position: 0 -56px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_forwardEnd_on {
+  background-position: 0 -70px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_forward_grey_on {
+  background-position: 0 -14px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_forward_off, .app_galleryformatter .next-slide.element-disabled {
+  background-position: 0 -112px;
+  height: 14px;
+  width: 14px;
+}
+
+.icons-paging-button_page_forward_on, .app_galleryformatter .next-slide {
+  background-position: 0 -98px;
+  height: 14px;
+  width: 14px;
+}
+
+.ratings-badges-sprite, .ratings-badges-ESRB_A, .adults-only, .ratings-badges-ESRB_E, .everyone, .ratings-badges-ESRB_E10, .everyone-10, .ratings-badges-ESRB_EC, .early-childhood, .ratings-badges-ESRB_M, .mature, .ratings-badges-ESRB_RP, .rating-pending, .ratings-badges-ESRB_T, .teen, .ratings-badges-PEGI_12, .pegi-12, .ratings-badges-PEGI_16, .pegi-16, .ratings-badges-PEGI_18, .pegi-18, .ratings-badges-PEGI_3, .pegi-3, .ratings-badges-PEGI_7, .pegi-7 {
+  background: url('../images/ratings-badges-s741d9abcde.png') no-repeat;
+}
+
+.ratings-badges-ESRB_A, .adults-only {
+  background-position: 0 -499px;
+  height: 61px;
+  width: 44px;
+}
+
+.ratings-badges-ESRB_E, .everyone {
+  background-position: 0 -560px;
+  height: 61px;
+  width: 44px;
+}
+
+.ratings-badges-ESRB_E10, .everyone-10 {
+  background-position: 0 -316px;
+  height: 61px;
+  width: 44px;
+}
+
+.ratings-badges-ESRB_EC, .early-childhood {
+  background-position: 0 -255px;
+  height: 61px;
+  width: 44px;
+}
+
+.ratings-badges-ESRB_M, .mature {
+  background-position: 0 -377px;
+  height: 61px;
+  width: 44px;
+}
+
+.ratings-badges-ESRB_RP, .rating-pending {
+  background-position: 0 -438px;
+  height: 61px;
+  width: 43px;
+}
+
+.ratings-badges-ESRB_T, .teen {
+  background-position: 0 -621px;
+  height: 61px;
+  width: 44px;
+}
+
+.ratings-badges-PEGI_12, .pegi-12 {
+  background-position: 0 -102px;
+  height: 51px;
+  width: 42px;
+}
+
+.ratings-badges-PEGI_16, .pegi-16 {
+  background-position: 0 -51px;
+  height: 51px;
+  width: 42px;
+}
+
+.ratings-badges-PEGI_18, .pegi-18 {
+  background-position: 0 0;
+  height: 51px;
+  width: 42px;
+}
+
+.ratings-badges-PEGI_3, .pegi-3 {
+  background-position: 0 -153px;
+  height: 51px;
+  width: 42px;
+}
+
+.ratings-badges-PEGI_7, .pegi-7 {
+  background-position: 0 -204px;
+  height: 51px;
+  width: 42px;
+}
+
+.content-background-border {
+  background-color: #202427;
+  border: 1px solid #2c2e33;
+  border-top: 2px solid #6ca200;
+  -webkit-box-shadow: #90bd00 0px -1px 0px;
+  -moz-box-shadow: #90bd00 0px -1px 0px;
+  box-shadow: #90bd00 0px -1px 0px;
+  -webkit-border-radius: 0px 0px 6px 6px;
+  -moz-border-radius: 0px 0px 6px 6px;
+  -ms-border-radius: 0px 0px 6px 6px;
+  -o-border-radius: 0px 0px 6px 6px;
+  border-radius: 0px 0px 6px 6px;
+}
+
+.divider-top, .menu-block-gfcore-3 ul.menu li > span, #info_buy, #info_boxshot, #info_rating, #info_genre {
+  border-top: 1px solid #2c2e33;
+  -webkit-box-shadow: #141318 0px -1px 0px;
+  -moz-box-shadow: #141318 0px -1px 0px;
+  box-shadow: #141318 0px -1px 0px;
+}
+
+.green-gradient {
+  background-color: #90c247;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FF90C247', endColorstr='#FF4C9300');
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #90c247), color-stop(13%, #83b939), color-stop(33%, #62a217), color-stop(42%, #569a0b), color-stop(50%, #4e9402), color-stop(54%, #4c9300), color-stop(100%, #4c9300));
+  background-image: -webkit-linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  background-image: -moz-linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  background-image: -o-linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  background-image: linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+}
+
+.btn-green, #info_buy a {
+  background-color: #4c9300;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #90c247), color-stop(13%, #83b939), color-stop(33%, #62a217), color-stop(42%, #569a0b), color-stop(50%, #4e9402), color-stop(54%, #4c9300), color-stop(100%, #4c9300));
+  background-image: -webkit-linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  background-image: -moz-linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  background-image: -o-linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  background-image: linear-gradient(top, #90c247 0%, #83b939 13%, #62a217 33%, #569a0b 42%, #4e9402 50%, #4c9300 54%, #4c9300 100%);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  display: inline-block;
+  border: none;
+  color: white !important;
+  text-transform: uppercase;
+  padding: 5px 20px;
+  text-shadow: none;
+  text-decoration: none !important;
+  margin-bottom: 10px;
+}
+.btn-green:hover, #info_buy a:hover {
+  background-color: #7dbf0b;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #aad847), color-stop(13%, #a0d339), color-stop(38%, #82c111), color-stop(50%, #77bb02), color-stop(100%, #76ba00));
+  background-image: -webkit-linear-gradient(top, #aad847 0%, #a0d339 13%, #82c111 38%, #77bb02 50%, #76ba00 100%);
+  background-image: -moz-linear-gradient(top, #aad847 0%, #a0d339 13%, #82c111 38%, #77bb02 50%, #76ba00 100%);
+  background-image: -o-linear-gradient(top, #aad847 0%, #a0d339 13%, #82c111 38%, #77bb02 50%, #76ba00 100%);
+  background-image: linear-gradient(top, #aad847 0%, #a0d339 13%, #82c111 38%, #77bb02 50%, #76ba00 100%);
+  text-decoration: none;
+}
+.btn-green:active, #info_buy a:active {
+  color: white !important;
+}
+
+.btn-gray, #age_verification_submit[disabled], #age_verification_submit[disabled]:hover {
+  background-color: #a0a0a0;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FFA0A0A0', endColorstr='#FF666666');
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #a0a0a0), color-stop(13%, #959595), color-stop(38%, #737373), color-stop(50%, #676767), color-stop(100%, #666666));
+  background-image: -webkit-linear-gradient(top, #a0a0a0 0%, #959595 13%, #737373 38%, #676767 50%, #666666 100%);
+  background-image: -moz-linear-gradient(top, #a0a0a0 0%, #959595 13%, #737373 38%, #676767 50%, #666666 100%);
+  background-image: -o-linear-gradient(top, #a0a0a0 0%, #959595 13%, #737373 38%, #676767 50%, #666666 100%);
+  background-image: linear-gradient(top, #a0a0a0 0%, #959595 13%, #737373 38%, #676767 50%, #666666 100%);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  display: inline-block;
+  border: none;
+  color: white !important;
+  text-transform: uppercase;
+  padding: 5px 20px;
+  text-shadow: none;
+  text-decoration: none !important;
+  margin-bottom: 10px;
+}
+.btn-gray:hover, #age_verification_submit[disabled]:hover {
+  background-color: #c1c1c1;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FFC1C1C1', endColorstr='#FF9C9C9C');
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c1c1c1), color-stop(13%, #bababa), color-stop(38%, #a4a4a4), color-stop(50%, #9c9c9c), color-stop(100%, #9c9c9c));
+  background-image: -webkit-linear-gradient(top, #c1c1c1 0%, #bababa 13%, #a4a4a4 38%, #9c9c9c 50%, #9c9c9c 100%);
+  background-image: -moz-linear-gradient(top, #c1c1c1 0%, #bababa 13%, #a4a4a4 38%, #9c9c9c 50%, #9c9c9c 100%);
+  background-image: -o-linear-gradient(top, #c1c1c1 0%, #bababa 13%, #a4a4a4 38%, #9c9c9c 50%, #9c9c9c 100%);
+  background-image: linear-gradient(top, #c1c1c1 0%, #bababa 13%, #a4a4a4 38%, #9c9c9c 50%, #9c9c9c 100%);
+  text-decoration: none;
+}
+.btn-gray:active, #age_verification_submit[disabled]:active {
+  color: white !important;
+}
+
+#block-games-feature-games-feature-info-leftrail .content {
+  margin-right: 10px;
+}
+
+.group-overview h2, .field-name-field-screenshot .field-label, .node-type-app .field-name-field-feature-items h3.overview_item_title, .view-mode-full .field-name-field-videos .field-label, .view-mode-full .field-name-field-downloads .field-label, #block-games-feature-games-feature-info-leftrail h2, .group-description h2, .page-node-screenshots.node-type-app .group-screenshots > h2, .page-node-screenshots.node-type-app .group-screenshots h3, .group-images > h2, .group-images h3, #gfjwplayer_gallery_video_title, #gfjwplayer_gallery_list h2, .node-type-app.page-node-system-requirements .group-system-requirements h2, .group-downloads h2, .view-mode-vmepage_guides .view-header {
+  font-size: 14px;
+  font-weight: bold;
+  height: 35px;
+  line-height: 35px;
+  text-indent: 12px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-top: 15px;
+  text-shadow: black 0 1px 0;
+  overflow: hidden;
+  background-color: #32373b;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FF32373B', endColorstr='#FF373B41');
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #32373b), color-stop(3%, #292e32), color-stop(6%, #262b2e), color-stop(97%, #333a3f), color-stop(100%, #373b41));
+  background-image: -webkit-linear-gradient(top, #32373b 0%, #292e32 3%, #262b2e 6%, #333a3f 97%, #373b41 100%);
+  background-image: -moz-linear-gradient(top, #32373b 0%, #292e32 3%, #262b2e 6%, #333a3f 97%, #373b41 100%);
+  background-image: -o-linear-gradient(top, #32373b 0%, #292e32 3%, #262b2e 6%, #333a3f 97%, #373b41 100%);
+  background-image: linear-gradient(top, #32373b 0%, #292e32 3%, #262b2e 6%, #333a3f 97%, #373b41 100%);
+  border-top: 1px solid #717883;
+  border-right: 1px solid #464b53;
+  border-left: 1px solid #464b53;
+  border-bottom: 1px solid #000303;
+  -webkit-border-radius: 4px 4px 0px 0px;
+  -moz-border-radius: 4px 4px 0px 0px;
+  -ms-border-radius: 4px 4px 0px 0px;
+  -o-border-radius: 4px 4px 0px 0px;
+  border-radius: 4px 4px 0px 0px;
+}
+.group-overview h2 h2, .field-name-field-screenshot .field-label h2, .node-type-app .field-name-field-feature-items h3.overview_item_title h2, .view-mode-full .field-name-field-videos .field-label h2, .view-mode-full .field-name-field-downloads .field-label h2, #block-games-feature-games-feature-info-leftrail h2 h2, .group-description h2 h2, .page-node-screenshots.node-type-app .group-screenshots > h2 h2, .page-node-screenshots.node-type-app .group-screenshots h3 h2, .group-images > h2 h2, .group-images h3 h2, #gfjwplayer_gallery_video_title h2, #gfjwplayer_gallery_list h2 h2, .node-type-app.page-node-system-requirements .group-system-requirements h2 h2, .group-downloads h2 h2, .view-mode-vmepage_guides .view-header h2 {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 35px;
+}
+
+.field-name-field-screenshot .field-items, .node-type-app .field-name-field-feature-items .overview_item_body, .view-mode-full .field-name-field-videos .field-items, .view-mode-full .field-name-field-downloads .field-items, #block-games-feature-games-feature-info-leftrail .info-container, .group-description .field-name-field-overview-content, .page-node-screenshots.node-type-app .group-screenshots .gallery-slides-container, .page-node-screenshots.node-type-app .group-screenshots .gallery-thumbs-container, .group-images .gallery-slides-container, .group-images .gallery-thumbs-container, #gfjwplayer_gallery_wrapper, .page-node-videos.node-type-app #gfjwplayer_gallery_list ul, .node-type-app.page-node-system-requirements .group-system-requirements .field-name-field-system-requirements, .group-downloads .field-name-field-downloads, .view-mode-vmepage_guides .view-content {
+  text-align: center;
+  position: relative;
+  padding: 10px;
+  /*background: #1C1F24;*/
+  background: #202427;
+  border: 1px solid #2d313a;
+  -webkit-border-radius: 0px 0px 4px 4px;
+  -moz-border-radius: 0px 0px 4px 4px;
+  -ms-border-radius: 0px 0px 4px 4px;
+  -o-border-radius: 0px 0px 4px 4px;
+  border-radius: 0px 0px 4px 4px;
+}
+.field-name-field-screenshot .field-items ul, .node-type-app .field-name-field-feature-items .overview_item_body ul, .view-mode-full .field-name-field-videos .field-items ul, .view-mode-full .field-name-field-downloads .field-items ul, #block-games-feature-games-feature-info-leftrail .info-container ul, .group-description .field-name-field-overview-content ul, .page-node-screenshots.node-type-app .group-screenshots .gallery-slides-container ul, .page-node-screenshots.node-type-app .group-screenshots .gallery-thumbs-container ul, .group-images .gallery-slides-container ul, .group-images .gallery-thumbs-container ul, #gfjwplayer_gallery_wrapper ul, .page-node-videos.node-type-app #gfjwplayer_gallery_list ul ul, .node-type-app.page-node-system-requirements .group-system-requirements .field-name-field-system-requirements ul, .group-downloads .field-name-field-downloads ul, .view-mode-vmepage_guides .view-content ul {
+  list-style: none;
+  margin: 0;
+}
+
+#block-games-feature-games-feature-info-leftrail .info-container .info-content, .gfops-app-ops-selector-wrapper {
+  background: #181B1E;
+  -webkit-box-shadow: black 1px 1px 1px inset;
+  -moz-box-shadow: black 1px 1px 1px inset;
+  box-shadow: black 1px 1px 1px inset;
+  border-bottom: 1px solid #333333;
+  border-right: 1px solid #333333;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.page-node-videos.node-type-app #gfjwplayer_gallery_list ul li a, .group-downloads .field-name-field-downloads ul li a, .view-mode-vmepage_news .views-row, .view-mode-vmepage_guides .views-row {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  border: 1px solid #464b50;
+  -webkit-box-shadow: black 1px 1px 1px;
+  -moz-box-shadow: black 1px 1px 1px;
+  box-shadow: black 1px 1px 1px;
+  padding: 10px;
+  text-align: left;
+  cursor: pointer;
+  background-color: #262c30;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FF262C30', endColorstr='#FF1E2125');
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #262c30), color-stop(100%, #1e2125));
+  background-image: -webkit-linear-gradient(top, #262c30 0%, #1e2125 100%);
+  background-image: -moz-linear-gradient(top, #262c30 0%, #1e2125 100%);
+  background-image: -o-linear-gradient(top, #262c30 0%, #1e2125 100%);
+  background-image: linear-gradient(top, #262c30 0%, #1e2125 100%);
+  -webkit-transition-property: *;
+  -moz-transition-property: *;
+  -o-transition-property: *;
+  transition-property: *;
+  -webkit-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  transition-duration: .3s;
+}
+
+.page-node-videos.node-type-app #gfjwplayer_gallery_list ul li a:hover, .group-downloads .field-name-field-downloads ul li a:hover, .view-mode-vmepage_news .views-row:hover, .view-mode-vmepage_guides .views-row:hover {
+  background-color: #3d474e;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FF3D474E', endColorstr='#FF282C32');
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #3d474e), color-stop(32%, #373f47), color-stop(68%, #2d3439), color-stop(100%, #282c32));
+  background-image: -webkit-linear-gradient(top, #3d474e 0%, #373f47 32%, #2d3439 68%, #282c32 100%);
+  background-image: -moz-linear-gradient(top, #3d474e 0%, #373f47 32%, #2d3439 68%, #282c32 100%);
+  background-image: -o-linear-gradient(top, #3d474e 0%, #373f47 32%, #2d3439 68%, #282c32 100%);
+  background-image: linear-gradient(top, #3d474e 0%, #373f47 32%, #2d3439 68%, #282c32 100%);
+}
+
+.styled-rows {
+  background-image: url("../images/main_rightNav_smallcapsule_background.png");
+  background-repeat: no-repeat;
+  clear: both;
+  cursor: pointer;
+  float: left;
+  height: 89px;
+  padding-left: 10px;
+  padding-right: 20px;
+  position: relative;
+  text-align: left;
+  width: 647px;
+}
+.styled-rows:hover {
+  background-image: url("../images/main_rightNav_smallcapsule_background_overlay.png");
+}
+
+/* games styles */
+.page-games-applications ul.pager {
+  margin-top: 0;
+}
+
+.menu-block-gfcore-3 ul.menu li > span {
+  padding-top: 12px;
+  margin-top: 10px;
+}
+.menu-block-gfcore-3 ul.menu li.first > span {
+  border-top: none;
+  -webkit-box-shadow: #0d0e0f 0px 0px 0px;
+  -moz-box-shadow: #0d0e0f 0px 0px 0px;
+  box-shadow: #0d0e0f 0px 0px 0px;
+  padding-top: 0;
+  margin-top: 0;
+}
+.menu-block-gfcore-3 ul.menu ul.menu ul.menu {
+  display: none;
+}
+.menu-block-gfcore-3 ul.menu ul.menu ul.menu a {
+  text-indent: 17px;
+  color: #777;
+  text-shadow: 0 1px 0 black;
+}
+.menu-block-gfcore-3 ul.menu ul.menu ul.menu a:hover {
+  color: #76B900;
+}
+.menu-block-gfcore-3 ul.menu ul.menu ul.menu a.active {
+  color: white;
+}
+.menu-block-gfcore-3 ul.menu ul.menu li.active-trail ul.menu, .menu-block-gfcore-3 ul.menu ul.menu li.active ul.menu {
+  display: block;
+}
+
+.view-id-games .views-view-grid.cols-3 .view-mode-grid_teaser {
+  width: 220px;
+  position: relative;
+  min-height: 150px;
+}
+.view-id-games .views-view-grid.cols-3 td {
+  padding-bottom: 20px;
+  padding-left: 7px;
+  vertical-align: top;
+}
+.view-id-games .views-view-grid.cols-3 td.col-1 {
+  padding-left: 0;
+}
+.view-id-games .views-view-grid.cols-3 .field-name-title {
+  position: absolute;
+  top: 100px;
+  left: 10px;
+  width: 200px;
+  height: 50px;
+}
+.view-id-games .views-view-grid.cols-3 .field-name-title .field-items {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+.view-id-games .views-view-grid.cols-3 .field-name-title .field-items .field-item {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+.view-id-games .view-filters {
+  position: relative;
+}
+.view-id-games .view-filters > .item-list {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+.view-id-games .view-filters #edit-sort-bef-combine {
+  width: 150px;
+}
+.view-id-games .view-filters .views-reset-button {
+  position: absolute;
+  right: 200px;
+  top: 13px;
+  padding: 0;
+  font-size: 10px;
+  line-height: 10px;
+  display: none;
+  font-weight: normal;
+  border-bottom: 1px solid #76b900;
+  text-decoration: underline !important;
+}
+.view-id-games .view-filters .views-reset-button:hover {
+  border-bottom: 1px solid white;
+}
+.view-id-games .view-filters .views-reset-button .form-submit {
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false) !important;
+  behavior: url(/sites/all/themes/geforce/js/PIE.htc);
+  background: none;
+  font-size: 10px;
+  line-height: 10px;
+  color: #76b900;
+  text-decoration: underline;
+  text-transform: capitalize;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+.view-id-games .view-filters .views-reset-button .form-submit:hover {
+  color: white;
+}
+
+.img-220x150-hover {
+  position: absolute;
+  width: 220px;
+  height: 150px;
+  background: url('../images/image-styles-overlays/220x150-hover.png?1390492609') left top no-repeat;
+  left: 0;
+  top: 0;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  -webkit-transition-property: opacity;
+  -moz-transition-property: opacity;
+  -o-transition-property: opacity;
+  transition-property: opacity;
+  -webkit-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  transition-duration: .3s;
+}
+.game-hover .img-220x150-hover {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+}
+
+.view-id-games .field-name-field-technologies-ref {
+  text-align: center;
+  margin-top: 5px;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+  opacity: 0.5;
+  -webkit-transition-property: opacity;
+  -moz-transition-property: opacity;
+  -o-transition-property: opacity;
+  transition-property: opacity;
+  -webkit-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  transition-duration: .3s;
+  overflow: hidden;
+  height: 32px;
+}
+.view-id-games .field-name-field-technologies-ref .field-item {
+  display: inline-block;
+}
+.view-id-games .field-name-field-technologies-ref .field-item a {
+  color: white;
+  margin-right: 10px;
+}
+.view-id-games .field-name-field-technologies-ref .field-item a:before {
+  content: '';
+  display: inline-block;
+  width: 11px;
+  height: 8px;
+  margin-right: 3px;
+}
+
+.view-id-games .game-hover .field-name-field-technologies-ref {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+}
+
+.group-overview {
+  position: relative;
+}
+.group-overview h2 {
+  font-size: 16px;
+  margin-top: 0px;
+}
+.group-overview .field-name-field-featured-image {
+  border-bottom: 1px solid #2d313a;
+  -webkit-border-radius: 0px 0px 6px 6px;
+  -moz-border-radius: 0px 0px 6px 6px;
+  -ms-border-radius: 0px 0px 6px 6px;
+  -o-border-radius: 0px 0px 6px 6px;
+  border-radius: 0px 0px 6px 6px;
+}
+.group-overview .field-name-title {
+  position: absolute;
+  left: 18px;
+  top: 222px;
+}
+.group-overview .field-name-title h3 {
+  font-size: 16px;
+  color: white;
+}
+.group-overview .field-name-field-summary {
+  position: absolute;
+  left: 18px;
+  top: 244px;
+  width: 640px;
+}
+
+.field-name-field-screenshot .field-label {
+  font-size: 16px;
+  margin-top: 15px;
+}
+.field-name-field-screenshot ul {
+  list-style: none;
+}
+.field-name-field-screenshot li {
+  position: relative;
+  display: inline-block;
+  margin-left: 12px;
+}
+.field-name-field-screenshot li:first-child {
+  margin-left: 0;
+}
+.field-name-field-screenshot .overview_item > a {
+  text-align: right;
+  font-weight: bold;
+  display: block;
+  margin-top: 8px;
+}
+.field-name-field-screenshot .overview_item > a:hover {
+  color: #76b900 !important;
+}
+
+.node-type-app .field-name-field-feature-items .overview_item {
+  float: left;
+  width: 330px;
+  margin-left: 0px !important;
+}
+.node-type-app .field-name-field-feature-items .overview_item.games-pod {
+  margin-right: 14px;
+}
+.node-type-app .field-name-field-feature-items .overview_item.games-pod-odd {
+  margin-right: 0px !important;
+}
+.node-type-app .field-name-field-feature-items h3.overview_item_title {
+  color: white;
+  font-size: 16px;
+}
+.node-type-app .field-name-field-feature-items .overview_item_body {
+  min-height: 95px !important;
+  text-align: left;
+}
+.node-type-app .field-name-field-feature-items .overview_item_body > a {
+  display: block;
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  font-weight: bold;
+  /*rr edit */
+}
+.node-type-app .field-name-field-feature-items .overview_item_body > a:hover {
+  color: #76b900;
+}
+.node-type-app .field-name-field-feature-items .overview_item_thumbnail {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+.node-type-app .field-name-field-feature-items .overview_item_text {
+  margin-left: 105px;
+}
+
+.games-pod {
+  float: left;
+  width: 330px;
+}
+.games-pod.games-pod-even {
+  margin-left: 7px;
+}
+
+.games-pod-odd {
+  margin-left: 7px;
+}
+
+.view-mode-full .field-name-field-videos {
+  float: left;
+  width: 330px;
+  margin-left: 0px !important;
+}
+.view-mode-full .field-name-field-videos .field-label {
+  font-size: 16px;
+  margin-top: 15px;
+}
+.view-mode-full .field-name-field-videos .field-items {
+  overflow: hidden;
+  text-align: left;
+  min-height: 95px !important;
+}
+.view-mode-full .field-name-field-videos .field-items .overview_item > a {
+  display: block;
+  font-size: 13px;
+  font-weight: bold;
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
+.view-mode-full .field-name-field-videos .field-items .overview_item > a:hover {
+  color: #76b900;
+}
+
+.game-video-thumbnail {
+  float: left;
+  overflow: hidden;
+  margin-right: 10px;
+}
+.game-video-thumbnail img {
+  float: left;
+}
+.game-video-thumbnail h4 {
+  margin-left: 115px;
+}
+
+.game-video_item_text {
+  margin-left: 105px;
+}
+.game-video_item_text h4 {
+  font-size: 14px;
+}
+
+.view-mode-full .field-name-field-downloads .field-label {
+  text-align: left;
+  font-size: 16px;
+}
+.view-mode-full .field-name-field-downloads .field-items {
+  overflow: hidden;
+  text-align: left;
+}
+.view-mode-full .field-name-field-downloads .field-items .field-item {
+  min-height: 95px !important;
+}
+.view-mode-full .field-name-field-downloads .field-items ul li a {
+  bottom: 0px;
+  position: relative;
+  right: 0px;
+  text-align: left;
+}
+.view-mode-full .field-name-field-downloads .field-items ul li a .download_thumbnail {
+  float: left;
+  margin-right: 10px;
+  min-height: 80px;
+}
+.view-mode-full .field-name-field-downloads .field-items ul li a:hover {
+  color: #76b900;
+  text-decoration: none;
+}
+.view-mode-full .field-name-field-downloads .field-items a {
+  bottom: 10px;
+  display: block;
+  font-weight: bold;
+  position: absolute;
+  right: 10px;
+  text-align: right;
+}
+.view-mode-full .field-name-field-downloads .field-items a:hover {
+  color: #76b900;
+}
+.view-mode-full .field-name-field-downloads .field-items .download_post_date {
+  clear: both;
+  color: #eee;
+  font-weight: normal;
+  padding-left: 10px;
+}
+
+#block-games-feature-games-feature-info-leftrail .info-container {
+  text-align: left;
+}
+#block-games-feature-games-feature-info-leftrail .info-container .info-content {
+  font-size: 11px;
+}
+#block-games-feature-games-feature-info-leftrail .info-container .info-content > p {
+  margin: 0;
+  padding: 9px 10px 9px 10px;
+}
+
+#info_technologies li {
+  margin: 0 10px 5px 13px;
+}
+#info_technologies li:before {
+  content: '';
+  display: inline-block;
+  height: 12px;
+  position: relative;
+  top: 2px;
+  width: 17px;
+}
+#info_technologies li span a {
+  float: right;
+}
+
+#info_buy {
+  margin-top: 14px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  text-align: center;
+}
+#info_buy a {
+  margin: 0;
+  width: 60%;
+}
+
+#info_boxshot {
+  margin-top: 14px;
+  padding-top: 8px;
+  padding-bottom: 22px;
+  text-align: center;
+}
+
+#info_rating .rating-icon {
+  display: block;
+  float: left;
+  margin: 9px 0 0 10px;
+}
+#info_rating .rating-copy {
+  color: #999999;
+  display: block;
+  margin-left: 60px;
+  margin-top: 5px;
+  padding-bottom: 10px;
+}
+#info_rating .rating-icon-pegi {
+  display: block;
+  margin: 9px auto;
+}
+#info_rating .rating-copy-pegi {
+  display: none;
+}
+
+#info_genre {
+  padding: 9px 10px 0 10px;
+  clear: both;
+}
+
+#info_release_date {
+  border-top: 1px solid #333333;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+#info_features {
+  padding: 0 10px 0 10px;
+}
+
+#info_website {
+  padding: 0 10px 9px 10px;
+}
+
+.group-description h2 {
+  width: 100%;
+}
+.group-description .field-name-field-overview-content {
+  margin-right: 4px;
+  text-align: left;
+}
+.group-description .field-name-field-overview-content a {
+  text-decoration: underline;
+}
+.group-description .field-name-field-overview-content table {
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: gray;
+}
+
+.page-node-screenshots.node-type-app .group-screenshots > h2 {
+  font-size: 16px;
+}
+.page-node-screenshots.node-type-app .group-screenshots .gallery-slides-container {
+  height: 430px;
+}
+.page-node-screenshots.node-type-app .group-screenshots h3 {
+  color: white;
+  font-size: 16px;
+}
+
+.group-images > h2 {
+  font-size: 16px;
+}
+.group-images h3 {
+  color: white;
+  font-size: 16px;
+}
+
+.gallery-slides {
+  position: static;
+  overflow: visible;
+}
+
+.gallery-thumbs {
+  padding-left: 0px;
+}
+.gallery-thumbs ul li {
+  margin: 0 7px 13px 6px;
+  padding: 0px !important;
+}
+.gallery-thumbs ul li a {
+  display: block;
+  position: relative;
+}
+
+.app_galleryformatter .prev-slide {
+  left: auto;
+  right: 102px;
+  top: -26px;
+}
+.app_galleryformatter .prev-slide span {
+  display: none;
+}
+.app_galleryformatter .next-slide {
+  right: 10px;
+  top: -26px;
+}
+.app_galleryformatter .next-slide span {
+  display: none;
+}
+.app_galleryformatter #pageNumbers {
+  position: absolute;
+  right: 33px;
+  top: -26px;
+  width: 60px;
+  display: block;
+  color: #999999;
+  text-align: center;
+}
+
+#gfjwplayer_gallery_video_title h2 {
+  font-size: 16px;
+  line-height: 35px;
+}
+
+#gfjwplayer_gallery_list h2 {
+  font-size: 16px;
+}
+
+.page-node-videos.node-type-app #gfjwplayer_gallery_list ul {
+  list-style: none;
+}
+.page-node-videos.node-type-app #gfjwplayer_gallery_list ul li a {
+  display: block;
+  margin: 10px 0px;
+  overflow: hidden;
+}
+.page-node-videos.node-type-app #gfjwplayer_gallery_list ul li a:hover {
+  text-decoration: none;
+}
+.page-node-videos.node-type-app #gfjwplayer_gallery_list ul li a .gfjwplayer_video_thumbnail {
+  display: block;
+  float: left;
+  margin-right: 10px;
+}
+.page-node-videos.node-type-app #gfjwplayer_gallery_list ul li a .gfjwplayer_video_title {
+  display: block;
+}
+.page-node-videos.node-type-app #gfjwplayer_gallery_list ul li a .gfjwplayer_video_caption {
+  color: #eee;
+}
+.page-node-videos.node-type-app #gfjwplayer_gallery_list ul li a .gfjwplayer_video_date {
+  color: #666;
+}
+
+.node-type-app.page-node-system-requirements .group-system-requirements h2 {
+  font-size: 16px;
+  margin-right: 4px;
+}
+.node-type-app.page-node-system-requirements .group-system-requirements .field-name-field-system-requirements {
+  margin-right: 4px;
+  text-align: left;
+}
+.node-type-app.page-node-system-requirements .group-system-requirements .field-name-field-system-requirements ul {
+  list-style: disc;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.group-downloads .field-name-field-downloads ul {
+  list-style: none;
+}
+.group-downloads .field-name-field-downloads ul li a {
+  display: block;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+.group-downloads .field-name-field-downloads ul li a:hover {
+  text-decoration: none;
+}
+.group-downloads .field-name-field-downloads ul li a:active {
+  border: none;
+}
+.group-downloads .field-name-field-downloads ul li a .download_thumbnail {
+  float: left;
+  margin-right: 10px;
+  min-height: 80px;
+}
+.group-downloads .field-name-field-downloads ul li a .download_title {
+  color: #76b900 !important;
+  font-size: 15px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+.group-downloads .field-name-field-downloads ul li a .download_title:hover {
+  color: #76b900 !important;
+}
+.group-downloads .field-name-field-downloads ul li a .download_caption {
+  color: white !important;
+}
+.group-downloads .field-name-field-downloads ul li a .download_post_date {
+  color: #666;
+  font-size: 12px;
+}
+
+.node-app.view-mode-vmepage_news {
+  margin-top: 15px;
+}
+
+.view-mode-vmepage_news .views-row, .view-mode-vmepage_guides .views-row {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.view-mode-vmepage_news .views-row .group-left, .view-mode-vmepage_guides .views-row .group-left {
+  width: auto;
+}
+.view-mode-vmepage_news .views-row .group-right, .view-mode-vmepage_guides .views-row .group-right {
+  width: auto;
+  margin-left: 106px;
+  float: none;
+}
+.view-mode-vmepage_news .views-row .group-right a:hover, .view-mode-vmepage_guides .views-row .group-right a:hover {
+  text-decoration: none;
+  color: #76b900;
+}
+.view-mode-vmepage_news .views-row .field-name-title, .view-mode-vmepage_guides .views-row .field-name-title {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.view-mode-vmepage_guides .view-header {
+  font-size: 16px;
+}
+.view-mode-vmepage_guides .view-content {
+  line-height: 1.2;
+  padding-top: 20px;
+}
+
+#age_verification_submit[disabled], #age_verification_submit[disabled]:hover {
+  color: #aaa;
+}
+
+.page-node-screenshots #main #content-area #content {
+  padding-top: 0px !important;
+}
+
+.gfops-app-ops-summary {
+  width: 320px;
+  padding-left: 72px;
+  float: left;
+  background: url('../images/icon_ops.png?1390492609') 3px -4px no-repeat;
+  margin-bottom: 15px;
+}
+
+.gfops-app-ops-selector-wrapper {
+  width: 205px;
+  padding: 10px 20px;
+  float: right;
+  margin-bottom: 15px;
+}
+.gfops-app-ops-selector-wrapper select {
+  display: block;
+  width: 100%;
+}
+.gfops-app-ops-selector-wrapper input {
+  display: block;
+  width: 100%;
+  margin: 15px 0 0 0;
+}
+
+.page-node-news.node-type-app .view-id-app_references .views-row {
+  min-height: 60px;
+}
+.page-node-news.node-type-app .view-id-app_references .views-row .field-name-title {
+  margin-top: 10px;
+}
+
+.download_title {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.download_caption {
+  font-size: 13px;
+  font-weight: normal;
+  color: #fff;
+}
+
+#info_twimtbp {
+  width: 90px;
+  height: 44px;
+  background: url('../images/TWIMTBP_logo.png?1390492609') left top no-repeat;
+  margin: 9px 7px 0;
+  padding: 9px 10px 0;
+}
+
+#info_publisher {
+  padding: 9px 10px;
+  border-top: 1px solid #2c2e33;
+  clear: both;
+}
